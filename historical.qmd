@@ -1,0 +1,132 @@
+---
+title: "Historical Fire Regimes"
+---
+
+## Summary
+
+Historically the Northwoods experienced, on average, ~1.2M acres of fire annually.  These fires were largely ignited as part of Indigenous land management practices (see Stewart, 2002). Areas with relatively short historical MFRIs were spread across the region with several areas standing out including:
+
+* central Minnesota 
+* northeastern and northwestern Wisconsin
+* large sections of the northern half of the lower peninsula of MI
+
+While these large areas stand out, there are historically fire adapted ecosystems peppered across much of the region.  Notably, some of the fire-adapted ecosystems were surrounded by ecosystems with typically long MFRIs, such as northern hardwoods limiting spread.  Further, most of the ecosystems with short MFRI were dominated by surface fires that would have killed less than 25% of the vegetation. 
+
+
+<br>
+
+![](assets/mfri.jpg){width="100%"}
+
+<br>
+
+
+Most historical fires occurred in pine, oak and peatland dominated ecosystems, especially the barrens types. 
+
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+#| fig.height: 10
+#| fig.width: 10
+
+
+# Set up ----
+
+
+library(knitr)
+library(kableExtra)
+
+library(scales)
+library(tidyverse)
+
+options(scipen = 999)
+
+bps_data <- read_csv("inputs/bps_nwds.csv")
+
+# Wrangle data ----
+
+exclude_types <- c("Fill-Not Mapped", 
+                   "Barren-Rock/Sand/Clay", 
+                   "Great Lakes Coastal Marsh Systems", 
+                   "Open Water")
+
+bps_data <- bps_data |>
+  filter(!BPS_NAME %in% exclude_types) 
+
+
+annual_fire <- bps_data |>
+  mutate(across(everything(), ~replace(., . == -9999, 0))) |>
+  mutate(Annual_Fire_Acres = (1 / FRI_ALLFIR) * ACRES) |>
+  group_by(BPS_NAME) |>
+  summarise(
+    mean_FRI_REPLAC = round(mean(FRI_REPLAC, na.rm = TRUE)),
+    mean_FRI_MIXED = round(mean(FRI_MIXED, na.rm = TRUE)),
+    mean_FRI_SURFAC = round(mean(FRI_SURFAC, na.rm = TRUE)),
+    Total_Annual_Fire_Acres = round(sum(Annual_Fire_Acres, na.rm = TRUE)),
+    Total_Acres = round(sum(ACRES, na.rm = TRUE))) |>
+  rename(
+    Mean_Replacement_FRI = mean_FRI_REPLAC,
+    Mean_Mixed_FRI = mean_FRI_MIXED,
+    Mean_Surface_FRI = mean_FRI_SURFAC)|>
+  arrange(desc(Total_Acres)) 
+
+
+annual_fire_top_10 <- annual_fire |>
+  top_n(n = 10, wt = Total_Acres) |>
+  arrange(desc(Total_Acres)) 
+
+# Make chart ----
+annual_fire_chart <- 
+  ggplot(data = annual_fire_top_10, 
+                aes(x = reorder(BPS_NAME, Total_Annual_Fire_Acres), 
+                y = Total_Annual_Fire_Acres)) +
+  geom_bar(stat = "identity") +
+  labs(
+    title = "Cumulative estimates of annual fire for the Northwoods prior \n to pre-European colonization",
+    caption = "Top ten ecosystems with the most annual acres burned. Data from landfire.gov.",
+    x = "",
+    y = "Acres") +
+  scale_x_discrete(labels = function(x) str_wrap(x, width = 18)) +
+  scale_y_continuous(name = 'Acres', labels = comma) +
+  coord_flip() +
+  theme_bw(base_size = 14) +
+  theme(plot.margin = margin(10, 30, 0, 0))
+
+annual_fire_chart
+
+
+```
+
+
+## Wrangled Data
+
+Below you can review the data after minor wrangling (e.g., cleaning column names, summing and averaging by BpS Name).  
+
+```{r}
+#| label: bps data table
+#| echo: false
+#| message: false
+#| warning: false
+
+
+# Format numbers with commas
+annual_fire_formatted <- annual_fire %>%
+  mutate(across(where(is.numeric), ~comma(.)))
+
+# Wrap column names at underscores
+colnames(annual_fire_formatted) <- gsub("_", "<br>", colnames(annual_fire_formatted))
+
+# Create the table
+kable(annual_fire_formatted, format = "html", escape = FALSE) %>%
+  kable_styling(full_width = FALSE, bootstrap_options = c("striped", "hover", "condensed")) %>%
+  scroll_box(width = "100%", height = "500px") %>%
+  column_spec(1, width = "30em") # Wrap long BPS_NAME column
+
+
+```
+
+
+
+
+

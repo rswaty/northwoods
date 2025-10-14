@@ -1,0 +1,728 @@
+"","TransitionGroupID","Model_Code","annual_probability","BpS_Name","VALUE","ACRES","REL_PERCENT","annual_dist_acres"
+"1","All Fire","13010_40",0.0120636,"Boreal Aspen-Birch Forest",1646,5704,0,68.8107744
+"2","All Fire","13020_40",0.0004724,"Laurentian-Acadian Northern Hardwoods Forest",1647,29,0,0.0136996
+"3","All Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,5221136,8.3,2537.472096
+"4","All Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1561,4826790,7.7,2345.81994
+"5","All Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1588,3367389,5.4,1636.551054
+"6","All Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1562,3200465,5.1,1555.42599
+"7","All Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,2241937,3.6,1089.581382
+"8","All Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1589,380744,0.6,185.041584
+"9","All Fire","13023_51",0.0009718,"Laurentian-Acadian Northern Hardwoods Forest - Northern Sugar Maple-Basswood",1616,101763,0.2,98.8932834
+"10","All Fire","13100_41_62",0.0748626,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,42039.9165186
+"11","All Fire","13100_44_50",0.041736,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,4412.079504
+"12","All Fire","13100_51",0.1077534,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,139.1096394
+"13","All Fire","13110_50",0.070731,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,895.030074
+"14","All Fire","13110_51",0.11053,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,1095.46283
+"15","All Fire","13130_47_50_51",0.0022416,"North-Central Interior Beech-Maple Forest",1565,32864,0.1,73.6679424
+"16","All Fire","13130_47_50_51",0.0022416,"North-Central Interior Beech-Maple Forest",1619,36117,0.1,80.9598672
+"17","All Fire","13140_38_39_40_41_42_43_44_50",0.0021822,"North-Central Interior Maple-Basswood Forest",1591,492628,0.8,1075.0128216
+"18","All Fire","13140_38_39_40_41_42_43_44_50",0.0021822,"North-Central Interior Maple-Basswood Forest",1566,201633,0.3,440.0035326
+"19","All Fire","13140_38_39_40_41_42_43_44_50",0.0021822,"North-Central Interior Maple-Basswood Forest",1648,157,0,0.3426054
+"20","All Fire","13310_39_40_41",0.1790012,"Eastern Great Plains Tallgrass Aspen Parkland",1592,27154,0,4860.5985848
+"21","All Fire","13310_39_40_41",0.1790012,"Eastern Great Plains Tallgrass Aspen Parkland",1649,2733,0,489.2102796
+"22","All Fire","13440_41",0.0120962,"Boreal Jack Pine-Black Spruce Forest",1593,768332,1.2,9293.8975384
+"23","All Fire","13441_51",0.1932342,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,654270,1,126427.340034
+"24","All Fire","13442_51",0.0091302,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,61190,0.1,558.676938
+"25","All Fire","13620_41_50",0.0899864,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,21.8666952
+"26","All Fire","13620_41_50",0.0899864,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,58.49116
+"27","All Fire","13620_51_63_64_65_66",0.0205164,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,50775.9152616
+"28","All Fire","13622_41_50",0.0294152,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2724,2163502,3.4,63639.8440304
+"29","All Fire","13622_41_50",0.0294152,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2726,1896775,3,55794.01598
+"30","All Fire","13651_40_41_50",0.0046868,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,13450.2676892
+"31","All Fire","13651_40_41_50",0.0046868,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,1089.5919508
+"32","All Fire","13651_40_41_50",0.0046868,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,2.1231204
+"33","All Fire","13651_51",0.0039598,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,4781.3634648
+"34","All Fire","13652_41",0.0019676,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,1084.49193
+"35","All Fire","13652_51",0.0018992,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,1389.2249168
+"36","All Fire","13653_41",0.013212,"Boreal White Spruce-Fir-Hardwood Forest - Aspen-Birch",1598,3183156,5.1,42055.857072
+"37","All Fire","13660_50",0.0065894,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1569,535983,0.9,3531.8063802
+"38","All Fire","13660_51_63_64_65_66",0.0064298,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1091156,1.7,7015.9148488
+"39","All Fire","13940_39_40_41",0.2072644,"North-Central Interior Oak Savanna",1599,97467,0.2,20201.4392748
+"40","All Fire","13940_39_40_41",0.2072644,"North-Central Interior Oak Savanna",1652,453,0,93.8907732
+"41","All Fire","13940_50_51",0.2031226,"North-Central Interior Oak Savanna",1570,240826,0.4,48917.2032676
+"42","All Fire","13950_41_42_43_49_52",0.2013914,"North-Central Oak Barrens",1600,77789,0.1,15666.0356146
+"43","All Fire","13950_50",0.2060566,"North-Central Oak Barrens",1571,23594,0,4861.6994204
+"44","All Fire","14071_41_50_51",0.227989,"Laurentian Pine-Oak Barrens",1628,998246,1.6,227589.107294
+"45","All Fire","14071_41_50_51",0.227989,"Laurentian Pine-Oak Barrens",1601,53326,0.1,12157.741414
+"46","All Fire","14071_41_50_51",0.227989,"Laurentian Pine-Oak Barrens",1572,25156,0,5735.291284
+"47","All Fire","14072_41_50_51",0.118221,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,249149.102406
+"48","All Fire","14072_41_50_51",0.118221,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,26627.034051
+"49","All Fire","14072_41_50_51",0.118221,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,16076.046243
+"50","All Fire","14090_50_64",0.0026274,"Great Lakes Alvar",1574,14939,0,39.2507286
+"51","All Fire","14110_49_51_52",0.0410286,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,193,0,7.9185198
+"52","All Fire","14120_39_40_41_42_43_50_51",0.2928476,"North-Central Interior Sand and Gravel Tallgrass Prairie",1575,18815,0,5509.927594
+"53","All Fire","14120_39_40_41_42_43_50_51",0.2928476,"North-Central Interior Sand and Gravel Tallgrass Prairie",1603,6437,0,1885.0600012
+"54","All Fire","14120_39_40_41_42_43_50_51",0.2928476,"North-Central Interior Sand and Gravel Tallgrass Prairie",1631,5463,0,1599.8264388
+"55","All Fire","14120_39_40_41_42_43_50_51",0.2928476,"North-Central Interior Sand and Gravel Tallgrass Prairie",1653,608,0,178.0513408
+"56","All Fire","14200_39_40_42",0.1749512,"Northern Tallgrass Prairie",1654,6634,0,1160.6262608
+"57","All Fire","14200_41",0.281598,"Northern Tallgrass Prairie",1604,7821,0,2202.377958
+"58","All Fire","14210_31_38_42_43_44_50_51",0.2824352,"Central Tallgrass Prairie",1576,9858,0,2784.2462016
+"59","All Fire","14440_41_50_51",0.0049654,"Eastern Boreal Floodplain",1605,705055,1.1,3500.880097
+"60","All Fire","14440_41_50_51",0.0049654,"Eastern Boreal Floodplain",1633,90068,0.1,447.2236472
+"61","All Fire","14440_41_50_51",0.0049654,"Eastern Boreal Floodplain",1577,12545,0,62.290943
+"62","All Fire","14660_50_51",0.0021454,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,69.0110818
+"63","All Fire","14660_50_51",0.0021454,"Great Lakes Wooded Dune and Swale",1634,13046,0,27.9888884
+"64","All Fire","14690_31_39_40_43",0.0204168,"Eastern Great Plains Floodplain Systems",1655,9,0,0.1837512
+"65","All Fire","14710_41_50",0.0174338,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,305.3355732
+"66","All Fire","14710_41_50",0.0174338,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,334.6766586
+"67","All Fire","14710_51_62",0.01687,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,1254.09893
+"68","All Fire","14750_41_50_51_63_64_65_66",0.0170888,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,7427.1513448
+"69","All Fire","14750_41_50_51_63_64_65_66",0.0170888,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,3824.5417952
+"70","All Fire","14750_41_50_51_63_64_65_66",0.0170888,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,3082.7682536
+"71","All Fire","14770_40_41_50_51",0.0096418,"Boreal Acidic Peatland Systems",1608,4275013,6.8,41218.8203434
+"72","All Fire","14770_40_41_50_51",0.0096418,"Boreal Acidic Peatland Systems",1581,1712958,2.7,16515.9984444
+"73","All Fire","14770_40_41_50_51",0.0096418,"Boreal Acidic Peatland Systems",1637,1388897,2.2,13391.4670946
+"74","All Fire","14770_40_41_50_51",0.0096418,"Boreal Acidic Peatland Systems",1656,50985,0.1,491.587173
+"75","All Fire","14790_41_42_47_48_50_51_53",0.0009708,"Central Interior and Appalachian Swamp Systems",1609,36647,0.1,35.5769076
+"76","All Fire","14790_41_42_47_48_50_51_53",0.0009708,"Central Interior and Appalachian Swamp Systems",1582,8453,0,8.2061724
+"77","All Fire","14790_41_42_47_48_50_51_53",0.0009708,"Central Interior and Appalachian Swamp Systems",1638,21007,0,20.3935956
+"78","All Fire","14810_41_50_51_63",0.000999,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,3593603,5.7,3590.009397
+"79","All Fire","14810_41_50_51_63",0.000999,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1583,1056194,1.7,1055.137806
+"80","All Fire","14810_41_50_51_63",0.000999,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1610,1094690,1.7,1093.59531
+"81","All Fire","14820_39_40",0.0197828,"Great Plains Prairie Pothole",1657,109,0,2.1563252
+"82","All Fire","14930_41_42_44_50",0.0590382,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,1881.3112812
+"83","All Fire","14930_41_42_44_50",0.0590382,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,157.041612
+"84","All Fire","14940_41_50_51",0.0564512,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,44365.3367872
+"85","All Fire","14940_41_50_51",0.0564512,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,11845.2681984
+"86","All Fire","14940_41_50_51",0.0564512,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,62.4350272
+"87","All Fire","14950_31_39_40",0.0494932,"Western Great Plains Depressional Wetland Systems",1658,422,0,20.8861304
+"88","All Fire","15170_42_49_50",0.0836212,"Paleozoic Plateau Bluff and Talus",1587,8763,0,732.7725756
+"89","All Transitions","13010_40",0.0236062,"Boreal Aspen-Birch Forest",1646,5704,0,134.6497648
+"90","All Transitions","13020_40",0.0016138,"Laurentian-Acadian Northern Hardwoods Forest",1647,29,0,0.0468002
+"91","All Transitions","13022_41_50_51",0.0017866,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,5221136,8.3,9328.0815776
+"92","All Transitions","13022_41_50_51",0.0017866,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1561,4826790,7.7,8623.543014
+"93","All Transitions","13022_41_50_51",0.0017866,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1588,3367389,5.4,6016.1771874
+"94","All Transitions","13022_41_50_51",0.0017866,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1562,3200465,5.1,5717.950769
+"95","All Transitions","13022_41_50_51",0.0017866,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,2241937,3.6,4005.4446442
+"96","All Transitions","13022_41_50_51",0.0017866,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1589,380744,0.6,680.2372304
+"97","All Transitions","13023_51",0.0027784,"Laurentian-Acadian Northern Hardwoods Forest - Northern Sugar Maple-Basswood",1616,101763,0.2,282.7383192
+"98","All Transitions","13100_41_62",0.1116236,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,62683.4604396
+"99","All Transitions","13100_44_50",0.0440268,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,4654.2491352
+"100","All Transitions","13100_51",0.1164306,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,150.3119046
+"101","All Transitions","13110_50",0.0810696,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,1025.8547184
+"102","All Transitions","13110_51",0.1215258,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,1204.4422038
+"103","All Transitions","13130_47_50_51",0.1424086,"North-Central Interior Beech-Maple Forest",1565,32864,0.1,4680.1162304
+"104","All Transitions","13130_47_50_51",0.1424086,"North-Central Interior Beech-Maple Forest",1619,36117,0.1,5143.3714062
+"105","All Transitions","13140_38_39_40_41_42_43_44_50",0.142462,"North-Central Interior Maple-Basswood Forest",1591,492628,0.8,70180.770136
+"106","All Transitions","13140_38_39_40_41_42_43_44_50",0.142462,"North-Central Interior Maple-Basswood Forest",1566,201633,0.3,28725.040446
+"107","All Transitions","13140_38_39_40_41_42_43_44_50",0.142462,"North-Central Interior Maple-Basswood Forest",1648,157,0,22.366534
+"108","All Transitions","13310_39_40_41",0.2205218,"Eastern Great Plains Tallgrass Aspen Parkland",1592,27154,0,5988.0489572
+"109","All Transitions","13310_39_40_41",0.2205218,"Eastern Great Plains Tallgrass Aspen Parkland",1649,2733,0,602.6860794
+"110","All Transitions","13440_41",0.013075,"Boreal Jack Pine-Black Spruce Forest",1593,768332,1.2,10045.9409
+"111","All Transitions","13441_51",0.1932342,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,654270,1,126427.340034
+"112","All Transitions","13442_51",0.009817,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,61190,0.1,600.70223
+"113","All Transitions","13620_41_50",0.0939818,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,22.8375774
+"114","All Transitions","13620_41_50",0.0939818,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,61.08817
+"115","All Transitions","13620_51_63_64_65_66",0.0272662,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,67480.9547828
+"116","All Transitions","13622_41_50",0.0303678,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2724,2163502,3.4,65700.7960356
+"117","All Transitions","13622_41_50",0.0303678,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2726,1896775,3,57600.883845
+"118","All Transitions","13651_40_41_50",0.027585,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,79163.957115
+"119","All Transitions","13651_40_41_50",0.027585,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,6412.988385
+"120","All Transitions","13651_40_41_50",0.027585,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,12.496005
+"121","All Transitions","13651_51",0.0836148,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,100962.8642448
+"122","All Transitions","13652_41",0.0194608,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,10726.30644
+"123","All Transitions","13652_51",0.0173768,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,12710.7642872
+"124","All Transitions","13653_41",0.0279418,"Boreal White Spruce-Fir-Hardwood Forest - Aspen-Birch",1598,3183156,5.1,88943.1083208
+"125","All Transitions","13660_50",0.0075898,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1569,535983,0.9,4068.0037734
+"126","All Transitions","13660_51_63_64_65_66",0.007392,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1091156,1.7,8065.825152
+"127","All Transitions","13940_39_40_41",0.2104982,"North-Central Interior Oak Savanna",1599,97467,0.2,20516.6280594
+"128","All Transitions","13940_39_40_41",0.2104982,"North-Central Interior Oak Savanna",1652,453,0,95.3556846
+"129","All Transitions","13940_50_51",0.209489,"North-Central Interior Oak Savanna",1570,240826,0.4,50450.397914
+"130","All Transitions","13950_41_42_43_49_52",0.2381444,"North-Central Oak Barrens",1600,77789,0.1,18525.0147316
+"131","All Transitions","13950_50",0.2479092,"North-Central Oak Barrens",1571,23594,0,5849.1696648
+"132","All Transitions","14071_41_50_51",0.228269,"Laurentian Pine-Oak Barrens",1628,998246,1.6,227868.616174
+"133","All Transitions","14071_41_50_51",0.228269,"Laurentian Pine-Oak Barrens",1601,53326,0.1,12172.672694
+"134","All Transitions","14071_41_50_51",0.228269,"Laurentian Pine-Oak Barrens",1572,25156,0,5742.334964
+"135","All Transitions","14072_41_50_51",0.1202254,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,253373.3473444
+"136","All Transitions","14072_41_50_51",0.1202254,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,27078.4870674
+"137","All Transitions","14072_41_50_51",0.1202254,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,16348.6105682
+"138","All Transitions","14090_50_64",0.4337066,"Great Lakes Alvar",1574,14939,0,6479.1428974
+"139","All Transitions","14110_49_51_52",0.058898,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,193,0,11.367314
+"140","All Transitions","14120_39_40_41_42_43_50_51",0.3074404,"North-Central Interior Sand and Gravel Tallgrass Prairie",1575,18815,0,5784.491126
+"141","All Transitions","14120_39_40_41_42_43_50_51",0.3074404,"North-Central Interior Sand and Gravel Tallgrass Prairie",1603,6437,0,1978.9938548
+"142","All Transitions","14120_39_40_41_42_43_50_51",0.3074404,"North-Central Interior Sand and Gravel Tallgrass Prairie",1631,5463,0,1679.5469052
+"143","All Transitions","14120_39_40_41_42_43_50_51",0.3074404,"North-Central Interior Sand and Gravel Tallgrass Prairie",1653,608,0,186.9237632
+"144","All Transitions","14200_39_40_42",0.4591252,"Northern Tallgrass Prairie",1654,6634,0,3045.8365768
+"145","All Transitions","14200_41",0.3117084,"Northern Tallgrass Prairie",1604,7821,0,2437.8713964
+"146","All Transitions","14210_31_38_42_43_44_50_51",0.3125626,"Central Tallgrass Prairie",1576,9858,0,3081.2421108
+"147","All Transitions","14440_41_50_51",0.1281268,"Eastern Boreal Floodplain",1605,705055,1.1,90336.440974
+"148","All Transitions","14440_41_50_51",0.1281268,"Eastern Boreal Floodplain",1633,90068,0.1,11540.1246224
+"149","All Transitions","14440_41_50_51",0.1281268,"Eastern Boreal Floodplain",1577,12545,0,1607.350706
+"150","All Transitions","14660_50_51",0.0077348,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,248.8053116
+"151","All Transitions","14660_50_51",0.0077348,"Great Lakes Wooded Dune and Swale",1634,13046,0,100.9082008
+"152","All Transitions","14690_31_39_40_43",0.0974352,"Eastern Great Plains Floodplain Systems",1655,9,0,0.8769168
+"153","All Transitions","14710_41_50",0.2349752,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,4115.3556528
+"154","All Transitions","14710_41_50",0.2349752,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,4510.8189144
+"155","All Transitions","14710_51_62",0.2292252,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,17040.3721428
+"156","All Transitions","14750_41_50_51_63_64_65_66",0.2307958,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,100308.7013918
+"157","All Transitions","14750_41_50_51_63_64_65_66",0.2307958,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,51653.0232232
+"158","All Transitions","14750_41_50_51_63_64_65_66",0.2307958,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,41634.8699326
+"159","All Transitions","14770_40_41_50_51",0.0232502,"Boreal Acidic Peatland Systems",1608,4275013,6.8,99394.9072526
+"160","All Transitions","14770_40_41_50_51",0.0232502,"Boreal Acidic Peatland Systems",1581,1712958,2.7,39826.6160916
+"161","All Transitions","14770_40_41_50_51",0.0232502,"Boreal Acidic Peatland Systems",1637,1388897,2.2,32292.1330294
+"162","All Transitions","14770_40_41_50_51",0.0232502,"Boreal Acidic Peatland Systems",1656,50985,0.1,1185.411447
+"163","All Transitions","14790_41_42_47_48_50_51_53",0.0091134,"Central Interior and Appalachian Swamp Systems",1609,36647,0.1,333.9787698
+"164","All Transitions","14790_41_42_47_48_50_51_53",0.0091134,"Central Interior and Appalachian Swamp Systems",1582,8453,0,77.0355702
+"165","All Transitions","14790_41_42_47_48_50_51_53",0.0091134,"Central Interior and Appalachian Swamp Systems",1638,21007,0,191.4451938
+"166","All Transitions","14810_41_50_51_63",0.0051708,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,3593603,5.7,18581.8023924
+"167","All Transitions","14810_41_50_51_63",0.0051708,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1583,1056194,1.7,5461.3679352
+"168","All Transitions","14810_41_50_51_63",0.0051708,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1610,1094690,1.7,5660.423052
+"169","All Transitions","14820_39_40",0.2276196,"Great Plains Prairie Pothole",1657,109,0,24.8105364
+"170","All Transitions","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1584,56188,0.1,1256.251304
+"171","All Transitions","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1640,38967,0.1,871.224186
+"172","All Transitions","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1611,477,0,10.664766
+"173","All Transitions","14930_41_42_44_50",0.4118612,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,13124.3689992
+"174","All Transitions","14930_41_42_44_50",0.4118612,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,1095.550792
+"175","All Transitions","14940_41_50_51",0.39658,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,311674.60148
+"176","All Transitions","14940_41_50_51",0.39658,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,83215.17456
+"177","All Transitions","14940_41_50_51",0.39658,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,438.61748
+"178","All Transitions","14950_31_39_40",0.3991594,"Western Great Plains Depressional Wetland Systems",1658,422,0,168.4452668
+"179","All Transitions","15170_42_49_50",0.0874838,"Paleozoic Plateau Bluff and Talus",1587,8763,0,766.6205394
+"180","Alternative Succession","13020_40",0.000173,"Laurentian-Acadian Northern Hardwoods Forest",1647,29,0,0.005017
+"181","Alternative Succession","13022_41_50_51",0.000384,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,5221136,8.3,2004.916224
+"182","Alternative Succession","13022_41_50_51",0.000384,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1561,4826790,7.7,1853.48736
+"183","Alternative Succession","13022_41_50_51",0.000384,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1588,3367389,5.4,1293.077376
+"184","Alternative Succession","13022_41_50_51",0.000384,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1562,3200465,5.1,1228.97856
+"185","Alternative Succession","13022_41_50_51",0.000384,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,2241937,3.6,860.903808
+"186","Alternative Succession","13022_41_50_51",0.000384,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1589,380744,0.6,146.205696
+"187","Alternative Succession","13100_41_62",0.0340798,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,19137.8865678
+"188","Alternative Succession","13100_51",0.0041266,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,5.3274406
+"189","Alternative Succession","13110_50",0.002565,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,32.45751
+"190","Alternative Succession","13110_51",0.0037196,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,36.8649556
+"191","Alternative Succession","13620_41_50",0.0022808,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,0.5542344
+"192","Alternative Succession","13620_41_50",0.0022808,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,1.48252
+"193","Alternative Succession","13620_51_63_64_65_66",0.0008822,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,2183.3514868
+"194","Alternative Succession","13651_40_41_50",0.0013688,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,3928.2082472
+"195","Alternative Succession","13651_40_41_50",0.0013688,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,318.2199928
+"196","Alternative Succession","13651_40_41_50",0.0013688,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,0.6200664
+"197","Alternative Succession","13651_51",0.0022104,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,2669.0049504
+"198","Alternative Succession","13652_41",0.0016886,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,930.714105
+"199","Alternative Succession","13652_51",0.0013544,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,990.7151576
+"200","Alternative Succession","13940_39_40_41",0.0012218,"North-Central Interior Oak Savanna",1599,97467,0.2,119.0851806
+"201","Alternative Succession","13940_39_40_41",0.0012218,"North-Central Interior Oak Savanna",1652,453,0,0.5534754
+"202","Alternative Succession","13940_50_51",0.0043678,"North-Central Interior Oak Savanna",1570,240826,0.4,1051.8798028
+"203","Alternative Succession","13950_41_42_43_49_52",0.0013398,"North-Central Oak Barrens",1600,77789,0.1,104.2217022
+"204","Alternative Succession","13950_50",0.0051966,"North-Central Oak Barrens",1571,23594,0,122.6085804
+"205","Alternative Succession","14071_41_50_51",0.00028,"Laurentian Pine-Oak Barrens",1628,998246,1.6,279.50888
+"206","Alternative Succession","14071_41_50_51",0.00028,"Laurentian Pine-Oak Barrens",1601,53326,0.1,14.93128
+"207","Alternative Succession","14071_41_50_51",0.00028,"Laurentian Pine-Oak Barrens",1572,25156,0,7.04368
+"208","Alternative Succession","14090_50_64",0.0012928,"Great Lakes Alvar",1574,14939,0,19.3131392
+"209","Alternative Succession","14120_39_40_41_42_43_50_51",0.008124,"North-Central Interior Sand and Gravel Tallgrass Prairie",1575,18815,0,152.85306
+"210","Alternative Succession","14120_39_40_41_42_43_50_51",0.008124,"North-Central Interior Sand and Gravel Tallgrass Prairie",1603,6437,0,52.294188
+"211","Alternative Succession","14120_39_40_41_42_43_50_51",0.008124,"North-Central Interior Sand and Gravel Tallgrass Prairie",1631,5463,0,44.381412
+"212","Alternative Succession","14120_39_40_41_42_43_50_51",0.008124,"North-Central Interior Sand and Gravel Tallgrass Prairie",1653,608,0,4.939392
+"213","Alternative Succession","14200_41",0.0059012,"Northern Tallgrass Prairie",1604,7821,0,46.1532852
+"214","Alternative Succession","14210_31_38_42_43_44_50_51",0.0058724,"Central Tallgrass Prairie",1576,9858,0,57.8901192
+"215","Alternative Succession","14690_31_39_40_43",0.012826,"Eastern Great Plains Floodplain Systems",1655,9,0,0.115434
+"216","Alternative Succession","14930_41_42_44_50",0.012543,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,399.695238
+"217","Alternative Succession","14930_41_42_44_50",0.012543,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,33.36438
+"218","Alternative Succession","14940_41_50_51",0.012298,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,9665.071988
+"219","Alternative Succession","14940_41_50_51",0.012298,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,2580.513936
+"220","Alternative Succession","14940_41_50_51",0.012298,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,13.601588
+"221","Alternative Succession","15170_42_49_50",0.0028152,"Paleozoic Plateau Bluff and Talus",1587,8763,0,24.6695976
+"222","Competition or Maintenance","13620_51_63_64_65_66",0.0025008,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,6189.2149152
+"223","Insect or Disease","13010_40",0.0115426,"Boreal Aspen-Birch Forest",1646,5704,0,65.8389904
+"224","Insect or Disease","13651_40_41_50",0.020707,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,59425.342033
+"225","Insect or Disease","13651_40_41_50",0.020707,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,4813.984067
+"226","Insect or Disease","13651_40_41_50",0.020707,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,9.380271
+"227","Insect or Disease","13651_51",0.011187,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,13508.034012
+"228","Insect or Disease","13652_41",0.0148872,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,8205.45246
+"229","Insect or Disease","13652_51",0.0132968,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,9726.3299672
+"230","Insect or Disease","13653_41",0.0147298,"Boreal White Spruce-Fir-Hardwood Forest - Aspen-Birch",1598,3183156,5.1,46887.2512488
+"231","Insect or Disease","13950_41_42_43_49_52",0.0002146,"North-Central Oak Barrens",1600,77789,0.1,16.6935194
+"232","Insect or Disease","13950_50",0.0002214,"North-Central Oak Barrens",1571,23594,0,5.2237116
+"233","Insect or Disease","14072_41_50_51",0.0010162,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,2141.6272732
+"234","Insect or Disease","14072_41_50_51",0.0010162,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,228.8797422
+"235","Insect or Disease","14072_41_50_51",0.0010162,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,138.1859246
+"236","Insect or Disease","14770_40_41_50_51",0.0016394,"Boreal Acidic Peatland Systems",1608,4275013,6.8,7008.4563122
+"237","Insect or Disease","14770_40_41_50_51",0.0016394,"Boreal Acidic Peatland Systems",1581,1712958,2.7,2808.2233452
+"238","Insect or Disease","14770_40_41_50_51",0.0016394,"Boreal Acidic Peatland Systems",1637,1388897,2.2,2276.9577418
+"239","Insect or Disease","14770_40_41_50_51",0.0016394,"Boreal Acidic Peatland Systems",1656,50985,0.1,83.584809
+"240","Mixed Fire","13100_41_62",0.017709,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,9944.683749
+"241","Mixed Fire","13100_44_50",0.0202956,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,2145.5290584
+"242","Mixed Fire","13100_51",0.0062232,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,8.0341512
+"243","Mixed Fire","13110_50",0.010059,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,127.286586
+"244","Mixed Fire","13110_51",0.0089836,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,89.0364596
+"245","Mixed Fire","13441_51",0.0158722,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,654270,1,10384.704294
+"246","Mixed Fire","13620_41_50",0.0014942,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,0.3630906
+"247","Mixed Fire","13620_41_50",0.0014942,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,0.97123
+"248","Mixed Fire","13620_51_63_64_65_66",0.0022214,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,5497.7295316
+"249","Mixed Fire","13651_40_41_50",0.0006828,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,1959.5124132
+"250","Mixed Fire","13651_40_41_50",0.0006828,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,158.7380268
+"251","Mixed Fire","13651_40_41_50",0.0006828,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,0.3093084
+"252","Mixed Fire","13651_51",0.0019318,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,2332.6021368
+"253","Mixed Fire","13652_41",0.0008962,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,493.963035
+"254","Mixed Fire","13652_51",0.00079,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,577.86841
+"255","Mixed Fire","13653_41",0.0041366,"Boreal White Spruce-Fir-Hardwood Forest - Aspen-Birch",1598,3183156,5.1,13167.4431096
+"256","Mixed Fire","13660_50",0.0010034,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1569,535983,0.9,537.8053422
+"257","Mixed Fire","13660_51_63_64_65_66",0.0009764,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1091156,1.7,1065.4047184
+"258","Mixed Fire","13940_39_40_41",0.0060802,"North-Central Interior Oak Savanna",1599,97467,0.2,592.6188534
+"259","Mixed Fire","13940_39_40_41",0.0060802,"North-Central Interior Oak Savanna",1652,453,0,2.7543306
+"260","Mixed Fire","13940_50_51",0.0053578,"North-Central Interior Oak Savanna",1570,240826,0.4,1290.2975428
+"261","Mixed Fire","13950_41_42_43_49_52",0.004018,"North-Central Oak Barrens",1600,77789,0.1,312.556202
+"262","Mixed Fire","13950_50",0.0070272,"North-Central Oak Barrens",1571,23594,0,165.7997568
+"263","Mixed Fire","14071_41_50_51",0.0133642,"Laurentian Pine-Oak Barrens",1628,998246,1.6,13340.7591932
+"264","Mixed Fire","14071_41_50_51",0.0133642,"Laurentian Pine-Oak Barrens",1601,53326,0.1,712.6593292
+"265","Mixed Fire","14071_41_50_51",0.0133642,"Laurentian Pine-Oak Barrens",1572,25156,0,336.1898152
+"266","Mixed Fire","14072_41_50_51",0.0216634,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,45655.3122124
+"267","Mixed Fire","14072_41_50_51",0.0216634,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,4879.2692454
+"268","Mixed Fire","14072_41_50_51",0.0216634,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,2945.8541222
+"269","Mixed Fire","14090_50_64",0.0003168,"Great Lakes Alvar",1574,14939,0,4.7326752
+"270","Mixed Fire","14440_41_50_51",0.00173,"Eastern Boreal Floodplain",1605,705055,1.1,1219.74515
+"271","Mixed Fire","14440_41_50_51",0.00173,"Eastern Boreal Floodplain",1633,90068,0.1,155.81764
+"272","Mixed Fire","14440_41_50_51",0.00173,"Eastern Boreal Floodplain",1577,12545,0,21.70285
+"273","Mixed Fire","14660_50_51",0.001884,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,60.602628
+"274","Mixed Fire","14660_50_51",0.001884,"Great Lakes Wooded Dune and Swale",1634,13046,0,24.578664
+"275","Mixed Fire","14690_31_39_40_43",0.012798,"Eastern Great Plains Floodplain Systems",1655,9,0,0.115182
+"276","Mixed Fire","14710_41_50",0.00238,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,41.68332
+"277","Mixed Fire","14710_41_50",0.00238,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,45.68886
+"278","Mixed Fire","14710_51_62",0.0023212,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,172.5556868
+"279","Mixed Fire","14750_41_50_51_63_64_65_66",0.00232,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,1008.32072
+"280","Mixed Fire","14750_41_50_51_63_64_65_66",0.00232,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,519.22528
+"281","Mixed Fire","14750_41_50_51_63_64_65_66",0.00232,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,418.52104
+"282","Mixed Fire","15170_42_49_50",0.0079184,"Paleozoic Plateau Bluff and Talus",1587,8763,0,69.3889392
+"283","Native Grazing","13100_41_62",0.0021416,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,1202.6390376
+"284","Native Grazing","13100_44_50",0.0014376,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,151.9744464
+"285","Native Grazing","13100_51",0.0036416,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,4.7013056
+"286","Native Grazing","13110_50",0.0064382,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,81.4689828
+"287","Native Grazing","13110_51",0.0061832,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,61.2816952
+"288","Native Grazing","13310_39_40_41",0.0308634,"Eastern Great Plains Tallgrass Aspen Parkland",1592,27154,0,838.0647636
+"289","Native Grazing","13310_39_40_41",0.0308634,"Eastern Great Plains Tallgrass Aspen Parkland",1649,2733,0,84.3496722
+"290","Native Grazing","13940_39_40_41",0.000983,"North-Central Interior Oak Savanna",1599,97467,0.2,95.810061
+"291","Native Grazing","13940_39_40_41",0.000983,"North-Central Interior Oak Savanna",1652,453,0,0.445299
+"292","Native Grazing","13940_50_51",0.001063,"North-Central Interior Oak Savanna",1570,240826,0.4,255.998038
+"293","Native Grazing","13950_41_42_43_49_52",0.0009956,"North-Central Oak Barrens",1600,77789,0.1,77.4467284
+"294","Native Grazing","13950_50",0.0010886,"North-Central Oak Barrens",1571,23594,0,25.6844284
+"295","Native Grazing","14090_50_64",0.0039898,"Great Lakes Alvar",1574,14939,0,59.6036222
+"296","Native Grazing","14200_39_40_42",0.284174,"Northern Tallgrass Prairie",1654,6634,0,1885.210316
+"297","Native Grazing","14820_39_40",0.1583818,"Great Plains Prairie Pothole",1657,109,0,17.2636162
+"298","Native Grazing","14950_31_39_40",0.1519744,"Western Great Plains Depressional Wetland Systems",1658,422,0,64.1331968
+"299","Native Grazing","15170_42_49_50",0.0003062,"Paleozoic Plateau Bluff and Talus",1587,8763,0,2.6832306
+"300","Non Fire Disturbances","13010_40",0.0115426,"Boreal Aspen-Birch Forest",1646,5704,0,65.8389904
+"301","Non Fire Disturbances","13020_40",0.0009684,"Laurentian-Acadian Northern Hardwoods Forest",1647,29,0,0.0280836
+"302","Non Fire Disturbances","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,5221136,8.3,4785.6932576
+"303","Non Fire Disturbances","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1561,4826790,7.7,4424.235714
+"304","Non Fire Disturbances","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1588,3367389,5.4,3086.5487574
+"305","Non Fire Disturbances","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1562,3200465,5.1,2933.546219
+"306","Non Fire Disturbances","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,2241937,3.6,2054.9594542
+"307","Non Fire Disturbances","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1589,380744,0.6,348.9899504
+"308","Non Fire Disturbances","13023_51",0.0018066,"Laurentian-Acadian Northern Hardwoods Forest - Northern Sugar Maple-Basswood",1616,101763,0.2,183.8450358
+"309","Non Fire Disturbances","13100_41_62",0.0026812,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,1505.6573532
+"310","Non Fire Disturbances","13100_44_50",0.0022908,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,242.1696312
+"311","Non Fire Disturbances","13100_51",0.0045506,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,5.8748246
+"312","Non Fire Disturbances","13110_50",0.0077736,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,98.3671344
+"313","Non Fire Disturbances","13110_51",0.0072762,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,72.1144182
+"314","Non Fire Disturbances","13130_47_50_51",0.140167,"North-Central Interior Beech-Maple Forest",1565,32864,0.1,4606.448288
+"315","Non Fire Disturbances","13130_47_50_51",0.140167,"North-Central Interior Beech-Maple Forest",1619,36117,0.1,5062.411539
+"316","Non Fire Disturbances","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",1591,492628,0.8,69105.7573144
+"317","Non Fire Disturbances","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",1566,201633,0.3,28285.0369134
+"318","Non Fire Disturbances","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",1648,157,0,22.0239286
+"319","Non Fire Disturbances","13310_39_40_41",0.0415206,"Eastern Great Plains Tallgrass Aspen Parkland",1592,27154,0,1127.4503724
+"320","Non Fire Disturbances","13310_39_40_41",0.0415206,"Eastern Great Plains Tallgrass Aspen Parkland",1649,2733,0,113.4757998
+"321","Non Fire Disturbances","13440_41",0.0009788,"Boreal Jack Pine-Black Spruce Forest",1593,768332,1.2,752.0433616
+"322","Non Fire Disturbances","13442_51",0.0006868,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,61190,0.1,42.025292
+"323","Non Fire Disturbances","13620_41_50",0.0017146,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,0.4166478
+"324","Non Fire Disturbances","13620_41_50",0.0017146,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,1.11449
+"325","Non Fire Disturbances","13620_51_63_64_65_66",0.0058676,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,14521.6880344
+"326","Non Fire Disturbances","13622_41_50",0.0009526,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2724,2163502,3.4,2060.9520052
+"327","Non Fire Disturbances","13622_41_50",0.0009526,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2726,1896775,3,1806.867865
+"328","Non Fire Disturbances","13651_40_41_50",0.0215294,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,61785.4811786
+"329","Non Fire Disturbances","13651_40_41_50",0.0215294,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,5005.1764414
+"330","Non Fire Disturbances","13651_40_41_50",0.0215294,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,9.7528182
+"331","Non Fire Disturbances","13651_51",0.0774446,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,93512.4958296
+"332","Non Fire Disturbances","13652_41",0.0158046,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,8711.100405
+"333","Non Fire Disturbances","13652_51",0.0141232,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,10330.8242128
+"334","Non Fire Disturbances","13653_41",0.0147298,"Boreal White Spruce-Fir-Hardwood Forest - Aspen-Birch",1598,3183156,5.1,46887.2512488
+"335","Non Fire Disturbances","13660_50",0.0010004,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1569,535983,0.9,536.1973932
+"336","Non Fire Disturbances","13660_51_63_64_65_66",0.0009622,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1091156,1.7,1049.9103032
+"337","Non Fire Disturbances","13940_39_40_41",0.002012,"North-Central Interior Oak Savanna",1599,97467,0.2,196.103604
+"338","Non Fire Disturbances","13940_39_40_41",0.002012,"North-Central Interior Oak Savanna",1652,453,0,0.911436
+"339","Non Fire Disturbances","13940_50_51",0.0019986,"North-Central Interior Oak Savanna",1570,240826,0.4,481.3148436
+"340","Non Fire Disturbances","13950_41_42_43_49_52",0.0354132,"North-Central Oak Barrens",1600,77789,0.1,2754.7574148
+"341","Non Fire Disturbances","13950_50",0.036656,"North-Central Oak Barrens",1571,23594,0,864.861664
+"342","Non Fire Disturbances","14072_41_50_51",0.0020044,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,4224.2449384
+"343","Non Fire Disturbances","14072_41_50_51",0.0020044,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,451.4530164
+"344","Non Fire Disturbances","14072_41_50_51",0.0020044,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,272.5643252
+"345","Non Fire Disturbances","14090_50_64",0.4297864,"Great Lakes Alvar",1574,14939,0,6420.5790296
+"346","Non Fire Disturbances","14110_49_51_52",0.0178694,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,193,0,3.4487942
+"347","Non Fire Disturbances","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",1575,18815,0,121.710472
+"348","Non Fire Disturbances","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",1603,6437,0,41.6396656
+"349","Non Fire Disturbances","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",1631,5463,0,35.3390544
+"350","Non Fire Disturbances","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",1653,608,0,3.9330304
+"351","Non Fire Disturbances","14200_39_40_42",0.284174,"Northern Tallgrass Prairie",1654,6634,0,1885.210316
+"352","Non Fire Disturbances","14200_41",0.0242092,"Northern Tallgrass Prairie",1604,7821,0,189.3401532
+"353","Non Fire Disturbances","14210_31_38_42_43_44_50_51",0.024255,"Central Tallgrass Prairie",1576,9858,0,239.10579
+"354","Non Fire Disturbances","14440_41_50_51",0.1231614,"Eastern Boreal Floodplain",1605,705055,1.1,86835.560877
+"355","Non Fire Disturbances","14440_41_50_51",0.1231614,"Eastern Boreal Floodplain",1633,90068,0.1,11092.9009752
+"356","Non Fire Disturbances","14440_41_50_51",0.1231614,"Eastern Boreal Floodplain",1577,12545,0,1545.059763
+"357","Non Fire Disturbances","14660_50_51",0.0055894,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,179.7942298
+"358","Non Fire Disturbances","14660_50_51",0.0055894,"Great Lakes Wooded Dune and Swale",1634,13046,0,72.9193124
+"359","Non Fire Disturbances","14690_31_39_40_43",0.0641924,"Eastern Great Plains Floodplain Systems",1655,9,0,0.5777316
+"360","Non Fire Disturbances","14710_41_50",0.2175414,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,3810.0200796
+"361","Non Fire Disturbances","14710_41_50",0.2175414,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,4176.1422558
+"362","Non Fire Disturbances","14710_51_62",0.2123552,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,15786.2732128
+"363","Non Fire Disturbances","14750_41_50_51_63_64_65_66",0.213707,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,92881.550047
+"364","Non Fire Disturbances","14750_41_50_51_63_64_65_66",0.213707,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,47828.481428
+"365","Non Fire Disturbances","14750_41_50_51_63_64_65_66",0.213707,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,38552.101679
+"366","Non Fire Disturbances","14770_40_41_50_51",0.0136084,"Boreal Acidic Peatland Systems",1608,4275013,6.8,58176.0869092
+"367","Non Fire Disturbances","14770_40_41_50_51",0.0136084,"Boreal Acidic Peatland Systems",1581,1712958,2.7,23310.6176472
+"368","Non Fire Disturbances","14770_40_41_50_51",0.0136084,"Boreal Acidic Peatland Systems",1637,1388897,2.2,18900.6659348
+"369","Non Fire Disturbances","14770_40_41_50_51",0.0136084,"Boreal Acidic Peatland Systems",1656,50985,0.1,693.824274
+"370","Non Fire Disturbances","14790_41_42_47_48_50_51_53",0.0081426,"Central Interior and Appalachian Swamp Systems",1609,36647,0.1,298.4018622
+"371","Non Fire Disturbances","14790_41_42_47_48_50_51_53",0.0081426,"Central Interior and Appalachian Swamp Systems",1582,8453,0,68.8293978
+"372","Non Fire Disturbances","14790_41_42_47_48_50_51_53",0.0081426,"Central Interior and Appalachian Swamp Systems",1638,21007,0,171.0515982
+"373","Non Fire Disturbances","14810_41_50_51_63",0.0041718,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,3593603,5.7,14991.7929954
+"374","Non Fire Disturbances","14810_41_50_51_63",0.0041718,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1583,1056194,1.7,4406.2301292
+"375","Non Fire Disturbances","14810_41_50_51_63",0.0041718,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1610,1094690,1.7,4566.827742
+"376","Non Fire Disturbances","14820_39_40",0.2078368,"Great Plains Prairie Pothole",1657,109,0,22.6542112
+"377","Non Fire Disturbances","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1584,56188,0.1,1256.251304
+"378","Non Fire Disturbances","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1640,38967,0.1,871.224186
+"379","Non Fire Disturbances","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1611,477,0,10.664766
+"380","Non Fire Disturbances","14930_41_42_44_50",0.34028,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,10843.36248
+"381","Non Fire Disturbances","14930_41_42_44_50",0.34028,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,905.1448
+"382","Non Fire Disturbances","14940_41_50_51",0.3278308,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,257644.1927048
+"383","Non Fire Disturbances","14940_41_50_51",0.3278308,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,68789.3924256
+"384","Non Fire Disturbances","14940_41_50_51",0.3278308,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,362.5808648
+"385","Non Fire Disturbances","14950_31_39_40",0.3496662,"Western Great Plains Depressional Wetland Systems",1658,422,0,147.5591364
+"386","Non Fire Disturbances","15170_42_49_50",0.0010474,"Paleozoic Plateau Bluff and Talus",1587,8763,0,9.1783662
+"387","Non Replacement Fire","13100_41_62",0.0614926,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,34531.8459486
+"388","Non Replacement Fire","13100_44_50",0.0335714,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,3548.9669796
+"389","Non Replacement Fire","13100_51",0.101509,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,131.048119
+"390","Non Replacement Fire","13110_50",0.061315,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,775.88001
+"391","Non Replacement Fire","13110_51",0.1031328,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,1022.1491808
+"392","Non Replacement Fire","13130_47_50_51",0.0012282,"North-Central Interior Beech-Maple Forest",1565,32864,0.1,40.3635648
+"393","Non Replacement Fire","13130_47_50_51",0.0012282,"North-Central Interior Beech-Maple Forest",1619,36117,0.1,44.3588994
+"394","Non Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",1591,492628,0.8,587.4096272
+"395","Non Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",1566,201633,0.3,240.4271892
+"396","Non Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",1648,157,0,0.1872068
+"397","Non Replacement Fire","13310_39_40_41",0.116715,"Eastern Great Plains Tallgrass Aspen Parkland",1592,27154,0,3169.27911
+"398","Non Replacement Fire","13310_39_40_41",0.116715,"Eastern Great Plains Tallgrass Aspen Parkland",1649,2733,0,318.982095
+"399","Non Replacement Fire","13441_51",0.1635562,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,654270,1,107009.914974
+"400","Non Replacement Fire","13620_41_50",0.087142,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,21.175506
+"401","Non Replacement Fire","13620_41_50",0.087142,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,56.6423
+"402","Non Replacement Fire","13620_51_63_64_65_66",0.0172968,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,42807.7465392
+"403","Non Replacement Fire","13622_41_50",0.025088,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2724,2163502,3.4,54277.938176
+"404","Non Replacement Fire","13622_41_50",0.025088,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2726,1896775,3,47586.2912
+"405","Non Replacement Fire","13651_40_41_50",0.0006828,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,1959.5124132
+"406","Non Replacement Fire","13651_40_41_50",0.0006828,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,158.7380268
+"407","Non Replacement Fire","13651_40_41_50",0.0006828,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,0.3093084
+"408","Non Replacement Fire","13651_51",0.0019318,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,2332.6021368
+"409","Non Replacement Fire","13652_41",0.0008962,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,493.963035
+"410","Non Replacement Fire","13652_51",0.00079,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,577.86841
+"411","Non Replacement Fire","13653_41",0.0041366,"Boreal White Spruce-Fir-Hardwood Forest - Aspen-Birch",1598,3183156,5.1,13167.4431096
+"412","Non Replacement Fire","13660_50",0.0044642,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1569,535983,0.9,2392.7353086
+"413","Non Replacement Fire","13660_51_63_64_65_66",0.0043526,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1091156,1.7,4749.3656056
+"414","Non Replacement Fire","13940_39_40_41",0.2053086,"North-Central Interior Oak Savanna",1599,97467,0.2,20010.8133162
+"415","Non Replacement Fire","13940_39_40_41",0.2053086,"North-Central Interior Oak Savanna",1652,453,0,93.0047958
+"416","Non Replacement Fire","13940_50_51",0.1884576,"North-Central Interior Oak Savanna",1570,240826,0.4,45385.4899776
+"417","Non Replacement Fire","13950_41_42_43_49_52",0.1985556,"North-Central Oak Barrens",1600,77789,0.1,15445.4415684
+"418","Non Replacement Fire","13950_50",0.187463,"North-Central Oak Barrens",1571,23594,0,4423.002022
+"419","Non Replacement Fire","14071_41_50_51",0.2188268,"Laurentian Pine-Oak Barrens",1628,998246,1.6,218442.9777928
+"420","Non Replacement Fire","14071_41_50_51",0.2188268,"Laurentian Pine-Oak Barrens",1601,53326,0.1,11669.1579368
+"421","Non Replacement Fire","14071_41_50_51",0.2188268,"Laurentian Pine-Oak Barrens",1572,25156,0,5504.8069808
+"422","Non Replacement Fire","14072_41_50_51",0.078392,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,165210.042512
+"423","Non Replacement Fire","14072_41_50_51",0.078392,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,17656.308552
+"424","Non Replacement Fire","14072_41_50_51",0.078392,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,10659.979336
+"425","Non Replacement Fire","14090_50_64",0.0003168,"Great Lakes Alvar",1574,14939,0,4.7326752
+"426","Non Replacement Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",1575,18815,0,217.520215
+"427","Non Replacement Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",1603,6437,0,74.418157
+"428","Non Replacement Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",1631,5463,0,63.157743
+"429","Non Replacement Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",1653,608,0,7.029088
+"430","Non Replacement Fire","14440_41_50_51",0.0049654,"Eastern Boreal Floodplain",1605,705055,1.1,3500.880097
+"431","Non Replacement Fire","14440_41_50_51",0.0049654,"Eastern Boreal Floodplain",1633,90068,0.1,447.2236472
+"432","Non Replacement Fire","14440_41_50_51",0.0049654,"Eastern Boreal Floodplain",1577,12545,0,62.290943
+"433","Non Replacement Fire","14660_50_51",0.001884,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,60.602628
+"434","Non Replacement Fire","14660_50_51",0.001884,"Great Lakes Wooded Dune and Swale",1634,13046,0,24.578664
+"435","Non Replacement Fire","14690_31_39_40_43",0.0184556,"Eastern Great Plains Floodplain Systems",1655,9,0,0.1661004
+"436","Non Replacement Fire","14710_41_50",0.0174338,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,305.3355732
+"437","Non Replacement Fire","14710_41_50",0.0174338,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,334.6766586
+"438","Non Replacement Fire","14710_51_62",0.01687,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,1254.09893
+"439","Non Replacement Fire","14750_41_50_51_63_64_65_66",0.0170888,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,7427.1513448
+"440","Non Replacement Fire","14750_41_50_51_63_64_65_66",0.0170888,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,3824.5417952
+"441","Non Replacement Fire","14750_41_50_51_63_64_65_66",0.0170888,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,3082.7682536
+"442","Non Replacement Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",1608,4275013,6.8,35190.1970108
+"443","Non Replacement Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",1581,1712958,2.7,14100.3850728
+"444","Non Replacement Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",1637,1388897,2.2,11432.8445452
+"445","Non Replacement Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",1656,50985,0.1,419.688126
+"446","Non Replacement Fire","15170_42_49_50",0.0177818,"Paleozoic Plateau Bluff and Talus",1587,8763,0,155.8219134
+"447","Optional 1","13950_41_42_43_49_52",0.0322762,"North-Central Oak Barrens",1600,77789,0.1,2510.7333218
+"448","Optional 1","14072_41_50_51",0.0009882,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,2082.6176652
+"449","Optional 1","14072_41_50_51",0.0009882,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,222.5732742
+"450","Optional 1","14072_41_50_51",0.0009882,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,134.3784006
+"451","Optional 1","14090_50_64",0.4257966,"Great Lakes Alvar",1574,14939,0,6360.9754074
+"452","Optional 1","14440_41_50_51",0.1045578,"Eastern Boreal Floodplain",1605,705055,1.1,73718.999679
+"453","Optional 1","14440_41_50_51",0.1045578,"Eastern Boreal Floodplain",1633,90068,0.1,9417.3119304
+"454","Optional 1","14440_41_50_51",0.1045578,"Eastern Boreal Floodplain",1577,12545,0,1311.677601
+"455","Optional 1","14660_50_51",0.0004612,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,14.8354204
+"456","Optional 1","14660_50_51",0.0004612,"Great Lakes Wooded Dune and Swale",1634,13046,0,6.0168152
+"457","Optional 1","14690_31_39_40_43",0.008468,"Eastern Great Plains Floodplain Systems",1655,9,0,0.076212
+"458","Optional 1","14710_41_50",0.2028674,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,3553.0196436
+"459","Optional 1","14710_41_50",0.2028674,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,3894.4454778
+"460","Optional 1","14710_51_62",0.1979968,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,14718.8841152
+"461","Optional 1","14750_41_50_51_63_64_65_66",0.1992052,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,86578.7632292
+"462","Optional 1","14750_41_50_51_63_64_65_66",0.1992052,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,44582.9205808
+"463","Optional 1","14750_41_50_51_63_64_65_66",0.1992052,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,35936.0204644
+"464","Optional 1","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",1608,4275013,6.8,39000.943599
+"465","Optional 1","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",1581,1712958,2.7,15627.315834
+"466","Optional 1","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",1637,1388897,2.2,12670.907331
+"467","Optional 1","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",1656,50985,0.1,465.136155
+"468","Optional 1","14820_39_40",0.009927,"Great Plains Prairie Pothole",1657,109,0,1.082043
+"469","Optional 1","14920_41_50_51_52_63",0.0111718,"Great Lakes Coastal Marsh Systems",1584,56188,0.1,627.7210984
+"470","Optional 1","14920_41_50_51_52_63",0.0111718,"Great Lakes Coastal Marsh Systems",1640,38967,0.1,435.3315306
+"471","Optional 1","14920_41_50_51_52_63",0.0111718,"Great Lakes Coastal Marsh Systems",1611,477,0,5.3289486
+"472","Optional 1","14930_41_42_44_50",0.004647,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,148.081302
+"473","Optional 1","14930_41_42_44_50",0.004647,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,12.36102
+"474","Optional 1","14940_41_50_51",0.0045032,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,3539.0918992
+"475","Optional 1","14940_41_50_51",0.0045032,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,944.9154624
+"476","Optional 1","14940_41_50_51",0.0045032,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,4.9805392
+"477","Optional 1","14950_31_39_40",0.0988502,"Western Great Plains Depressional Wetland Systems",1658,422,0,41.7147844
+"478","Optional 2","14110_49_51_52",0.0178694,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,193,0,3.4487942
+"479","Optional 2","14440_41_50_51",0.0186036,"Eastern Boreal Floodplain",1605,705055,1.1,13116.561198
+"480","Optional 2","14440_41_50_51",0.0186036,"Eastern Boreal Floodplain",1633,90068,0.1,1675.5890448
+"481","Optional 2","14440_41_50_51",0.0186036,"Eastern Boreal Floodplain",1577,12545,0,233.382162
+"482","Optional 2","14660_50_51",0.0004406,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,14.1727802
+"483","Optional 2","14660_50_51",0.0004406,"Great Lakes Wooded Dune and Swale",1634,13046,0,5.7480676
+"484","Optional 2","14690_31_39_40_43",0.0020816,"Eastern Great Plains Floodplain Systems",1655,9,0,0.0187344
+"485","Optional 2","14710_41_50",0.014674,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,257.000436
+"486","Optional 2","14710_41_50",0.014674,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,281.696778
+"487","Optional 2","14710_51_62",0.0143584,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,1067.3890976
+"488","Optional 2","14750_41_50_51_63_64_65_66",0.0145018,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,6302.7868178
+"489","Optional 2","14750_41_50_51_63_64_65_66",0.0145018,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,3245.5608472
+"490","Optional 2","14750_41_50_51_63_64_65_66",0.0145018,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,2616.0812146
+"491","Optional 2","14820_39_40",0.0197494,"Great Plains Prairie Pothole",1657,109,0,2.1526846
+"492","Optional 2","14920_41_50_51_52_63",0.0111862,"Great Lakes Coastal Marsh Systems",1584,56188,0.1,628.5302056
+"493","Optional 2","14920_41_50_51_52_63",0.0111862,"Great Lakes Coastal Marsh Systems",1640,38967,0.1,435.8926554
+"494","Optional 2","14920_41_50_51_52_63",0.0111862,"Great Lakes Coastal Marsh Systems",1611,477,0,5.3358174
+"495","Optional 2","14930_41_42_44_50",0.0066408,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,211.6157328
+"496","Optional 2","14930_41_42_44_50",0.0066408,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,17.664528
+"497","Optional 2","14940_41_50_51",0.0064844,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,5096.1288664
+"498","Optional 2","14940_41_50_51",0.0064844,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,1360.6346208
+"499","Optional 2","14940_41_50_51",0.0064844,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,7.1717464
+"500","Optional Types","13950_41_42_43_49_52",0.0322762,"North-Central Oak Barrens",1600,77789,0.1,2510.7333218
+"501","Optional Types","14072_41_50_51",0.0009882,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,2082.6176652
+"502","Optional Types","14072_41_50_51",0.0009882,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,222.5732742
+"503","Optional Types","14072_41_50_51",0.0009882,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,134.3784006
+"504","Optional Types","14090_50_64",0.4257966,"Great Lakes Alvar",1574,14939,0,6360.9754074
+"505","Optional Types","14110_49_51_52",0.0178694,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,193,0,3.4487942
+"506","Optional Types","14440_41_50_51",0.1231614,"Eastern Boreal Floodplain",1605,705055,1.1,86835.560877
+"507","Optional Types","14440_41_50_51",0.1231614,"Eastern Boreal Floodplain",1633,90068,0.1,11092.9009752
+"508","Optional Types","14440_41_50_51",0.1231614,"Eastern Boreal Floodplain",1577,12545,0,1545.059763
+"509","Optional Types","14660_50_51",0.0009018,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,29.0082006
+"510","Optional Types","14660_50_51",0.0009018,"Great Lakes Wooded Dune and Swale",1634,13046,0,11.7648828
+"511","Optional Types","14690_31_39_40_43",0.0105496,"Eastern Great Plains Floodplain Systems",1655,9,0,0.0949464
+"512","Optional Types","14710_41_50",0.2175414,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,3810.0200796
+"513","Optional Types","14710_41_50",0.2175414,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,4176.1422558
+"514","Optional Types","14710_51_62",0.2123552,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,15786.2732128
+"515","Optional Types","14750_41_50_51_63_64_65_66",0.213707,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,92881.550047
+"516","Optional Types","14750_41_50_51_63_64_65_66",0.213707,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,47828.481428
+"517","Optional Types","14750_41_50_51_63_64_65_66",0.213707,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,38552.101679
+"518","Optional Types","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",1608,4275013,6.8,39000.943599
+"519","Optional Types","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",1581,1712958,2.7,15627.315834
+"520","Optional Types","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",1637,1388897,2.2,12670.907331
+"521","Optional Types","14770_40_41_50_51",0.009123,"Boreal Acidic Peatland Systems",1656,50985,0.1,465.136155
+"522","Optional Types","14820_39_40",0.0296764,"Great Plains Prairie Pothole",1657,109,0,3.2347276
+"523","Optional Types","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1584,56188,0.1,1256.251304
+"524","Optional Types","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1640,38967,0.1,871.224186
+"525","Optional Types","14920_41_50_51_52_63",0.022358,"Great Lakes Coastal Marsh Systems",1611,477,0,10.664766
+"526","Optional Types","14930_41_42_44_50",0.0112878,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,359.6970348
+"527","Optional Types","14930_41_42_44_50",0.0112878,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,30.025548
+"528","Optional Types","14940_41_50_51",0.0109876,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,8635.2207656
+"529","Optional Types","14940_41_50_51",0.0109876,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,2305.5500832
+"530","Optional Types","14940_41_50_51",0.0109876,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,12.1522856
+"531","Optional Types","14950_31_39_40",0.0988502,"Western Great Plains Depressional Wetland Systems",1658,422,0,41.7147844
+"532","Replacement Fire","13010_40",0.0120636,"Boreal Aspen-Birch Forest",1646,5704,0,68.8107744
+"533","Replacement Fire","13020_40",0.0004724,"Laurentian-Acadian Northern Hardwoods Forest",1647,29,0,0.0136996
+"534","Replacement Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,5221136,8.3,2537.472096
+"535","Replacement Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1561,4826790,7.7,2345.81994
+"536","Replacement Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1588,3367389,5.4,1636.551054
+"537","Replacement Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1562,3200465,5.1,1555.42599
+"538","Replacement Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,2241937,3.6,1089.581382
+"539","Replacement Fire","13022_41_50_51",0.000486,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1589,380744,0.6,185.041584
+"540","Replacement Fire","13023_51",0.0009718,"Laurentian-Acadian Northern Hardwoods Forest - Northern Sugar Maple-Basswood",1616,101763,0.2,98.8932834
+"541","Replacement Fire","13100_41_62",0.01337,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,7508.07057
+"542","Replacement Fire","13100_44_50",0.0081646,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,863.1125244
+"543","Replacement Fire","13100_51",0.0062444,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,8.0615204
+"544","Replacement Fire","13110_50",0.009416,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,119.150064
+"545","Replacement Fire","13110_51",0.0073972,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,73.3136492
+"546","Replacement Fire","13130_47_50_51",0.0010134,"North-Central Interior Beech-Maple Forest",1565,32864,0.1,33.3043776
+"547","Replacement Fire","13130_47_50_51",0.0010134,"North-Central Interior Beech-Maple Forest",1619,36117,0.1,36.6009678
+"548","Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0009898,"North-Central Interior Maple-Basswood Forest",1591,492628,0.8,487.6031944
+"549","Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0009898,"North-Central Interior Maple-Basswood Forest",1566,201633,0.3,199.5763434
+"550","Replacement Fire","13140_38_39_40_41_42_43_44_50",0.0009898,"North-Central Interior Maple-Basswood Forest",1648,157,0,0.1553986
+"551","Replacement Fire","13310_39_40_41",0.0622862,"Eastern Great Plains Tallgrass Aspen Parkland",1592,27154,0,1691.3194748
+"552","Replacement Fire","13310_39_40_41",0.0622862,"Eastern Great Plains Tallgrass Aspen Parkland",1649,2733,0,170.2281846
+"553","Replacement Fire","13440_41",0.0120962,"Boreal Jack Pine-Black Spruce Forest",1593,768332,1.2,9293.8975384
+"554","Replacement Fire","13441_51",0.029678,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,654270,1,19417.42506
+"555","Replacement Fire","13442_51",0.0091302,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,61190,0.1,558.676938
+"556","Replacement Fire","13620_41_50",0.0028444,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,0.6911892
+"557","Replacement Fire","13620_41_50",0.0028444,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,1.84886
+"558","Replacement Fire","13620_51_63_64_65_66",0.0032196,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,7968.1687224
+"559","Replacement Fire","13622_41_50",0.0043272,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2724,2163502,3.4,9361.9058544
+"560","Replacement Fire","13622_41_50",0.0043272,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2726,1896775,3,8207.72478
+"561","Replacement Fire","13651_40_41_50",0.004004,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,11490.755276
+"562","Replacement Fire","13651_40_41_50",0.004004,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,930.853924
+"563","Replacement Fire","13651_40_41_50",0.004004,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,1.813812
+"564","Replacement Fire","13651_51",0.002028,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,2448.761328
+"565","Replacement Fire","13652_41",0.0010714,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,590.528895
+"566","Replacement Fire","13652_51",0.0011092,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,811.3565068
+"567","Replacement Fire","13653_41",0.0090754,"Boreal White Spruce-Fir-Hardwood Forest - Aspen-Birch",1598,3183156,5.1,28888.4139624
+"568","Replacement Fire","13660_50",0.0021252,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1569,535983,0.9,1139.0710716
+"569","Replacement Fire","13660_51_63_64_65_66",0.0020772,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1091156,1.7,2266.5492432
+"570","Replacement Fire","13940_39_40_41",0.0019558,"North-Central Interior Oak Savanna",1599,97467,0.2,190.6259586
+"571","Replacement Fire","13940_39_40_41",0.0019558,"North-Central Interior Oak Savanna",1652,453,0,0.8859774
+"572","Replacement Fire","13940_50_51",0.014665,"North-Central Interior Oak Savanna",1570,240826,0.4,3531.71329
+"573","Replacement Fire","13950_41_42_43_49_52",0.0028358,"North-Central Oak Barrens",1600,77789,0.1,220.5940462
+"574","Replacement Fire","13950_50",0.0185936,"North-Central Oak Barrens",1571,23594,0,438.6973984
+"575","Replacement Fire","14071_41_50_51",0.0091622,"Laurentian Pine-Oak Barrens",1628,998246,1.6,9146.1295012
+"576","Replacement Fire","14071_41_50_51",0.0091622,"Laurentian Pine-Oak Barrens",1601,53326,0.1,488.5834772
+"577","Replacement Fire","14071_41_50_51",0.0091622,"Laurentian Pine-Oak Barrens",1572,25156,0,230.4843032
+"578","Replacement Fire","14072_41_50_51",0.039829,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,83939.059894
+"579","Replacement Fire","14072_41_50_51",0.039829,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,8970.725499
+"580","Replacement Fire","14072_41_50_51",0.039829,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,5416.066907
+"581","Replacement Fire","14090_50_64",0.0023106,"Great Lakes Alvar",1574,14939,0,34.5180534
+"582","Replacement Fire","14110_49_51_52",0.0410286,"Great Lakes Wet-Mesic Lakeplain Prairie",1630,193,0,7.9185198
+"583","Replacement Fire","14120_39_40_41_42_43_50_51",0.2812866,"North-Central Interior Sand and Gravel Tallgrass Prairie",1575,18815,0,5292.407379
+"584","Replacement Fire","14120_39_40_41_42_43_50_51",0.2812866,"North-Central Interior Sand and Gravel Tallgrass Prairie",1603,6437,0,1810.6418442
+"585","Replacement Fire","14120_39_40_41_42_43_50_51",0.2812866,"North-Central Interior Sand and Gravel Tallgrass Prairie",1631,5463,0,1536.6686958
+"586","Replacement Fire","14120_39_40_41_42_43_50_51",0.2812866,"North-Central Interior Sand and Gravel Tallgrass Prairie",1653,608,0,171.0222528
+"587","Replacement Fire","14200_39_40_42",0.1749512,"Northern Tallgrass Prairie",1654,6634,0,1160.6262608
+"588","Replacement Fire","14200_41",0.281598,"Northern Tallgrass Prairie",1604,7821,0,2202.377958
+"589","Replacement Fire","14210_31_38_42_43_44_50_51",0.2824352,"Central Tallgrass Prairie",1576,9858,0,2784.2462016
+"590","Replacement Fire","14660_50_51",0.0002614,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,8.4084538
+"591","Replacement Fire","14660_50_51",0.0002614,"Great Lakes Wooded Dune and Swale",1634,13046,0,3.4102244
+"592","Replacement Fire","14690_31_39_40_43",0.0019612,"Eastern Great Plains Floodplain Systems",1655,9,0,0.0176508
+"593","Replacement Fire","14770_40_41_50_51",0.0014102,"Boreal Acidic Peatland Systems",1608,4275013,6.8,6028.6233326
+"594","Replacement Fire","14770_40_41_50_51",0.0014102,"Boreal Acidic Peatland Systems",1581,1712958,2.7,2415.6133716
+"595","Replacement Fire","14770_40_41_50_51",0.0014102,"Boreal Acidic Peatland Systems",1637,1388897,2.2,1958.6225494
+"596","Replacement Fire","14770_40_41_50_51",0.0014102,"Boreal Acidic Peatland Systems",1656,50985,0.1,71.899047
+"597","Replacement Fire","14790_41_42_47_48_50_51_53",0.0009708,"Central Interior and Appalachian Swamp Systems",1609,36647,0.1,35.5769076
+"598","Replacement Fire","14790_41_42_47_48_50_51_53",0.0009708,"Central Interior and Appalachian Swamp Systems",1582,8453,0,8.2061724
+"599","Replacement Fire","14790_41_42_47_48_50_51_53",0.0009708,"Central Interior and Appalachian Swamp Systems",1638,21007,0,20.3935956
+"600","Replacement Fire","14810_41_50_51_63",0.000999,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,3593603,5.7,3590.009397
+"601","Replacement Fire","14810_41_50_51_63",0.000999,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1583,1056194,1.7,1055.137806
+"602","Replacement Fire","14810_41_50_51_63",0.000999,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1610,1094690,1.7,1093.59531
+"603","Replacement Fire","14820_39_40",0.0197828,"Great Plains Prairie Pothole",1657,109,0,2.1563252
+"604","Replacement Fire","14930_41_42_44_50",0.0590382,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,1881.3112812
+"605","Replacement Fire","14930_41_42_44_50",0.0590382,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,157.041612
+"606","Replacement Fire","14940_41_50_51",0.0564512,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,44365.3367872
+"607","Replacement Fire","14940_41_50_51",0.0564512,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,11845.2681984
+"608","Replacement Fire","14940_41_50_51",0.0564512,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,62.4350272
+"609","Replacement Fire","14950_31_39_40",0.0494932,"Western Great Plains Depressional Wetland Systems",1658,422,0,20.8861304
+"610","Replacement Fire","15170_42_49_50",0.0658394,"Paleozoic Plateau Bluff and Talus",1587,8763,0,576.9506622
+"611","Surface Fire","13100_41_62",0.0437836,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,24587.1621996
+"612","Surface Fire","13100_44_50",0.0132758,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,1403.4379212
+"613","Surface Fire","13100_51",0.0952858,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,123.0139678
+"614","Surface Fire","13110_50",0.051256,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,648.593424
+"615","Surface Fire","13110_51",0.0941492,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,933.1127212
+"616","Surface Fire","13130_47_50_51",0.0012282,"North-Central Interior Beech-Maple Forest",1565,32864,0.1,40.3635648
+"617","Surface Fire","13130_47_50_51",0.0012282,"North-Central Interior Beech-Maple Forest",1619,36117,0.1,44.3588994
+"618","Surface Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",1591,492628,0.8,587.4096272
+"619","Surface Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",1566,201633,0.3,240.4271892
+"620","Surface Fire","13140_38_39_40_41_42_43_44_50",0.0011924,"North-Central Interior Maple-Basswood Forest",1648,157,0,0.1872068
+"621","Surface Fire","13310_39_40_41",0.116715,"Eastern Great Plains Tallgrass Aspen Parkland",1592,27154,0,3169.27911
+"622","Surface Fire","13310_39_40_41",0.116715,"Eastern Great Plains Tallgrass Aspen Parkland",1649,2733,0,318.982095
+"623","Surface Fire","13441_51",0.147684,"Boreal Jack Pine-Black Spruce Forest - Pine Barrens",1620,654270,1,96625.21068
+"624","Surface Fire","13620_41_50",0.0856478,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,20.8124154
+"625","Surface Fire","13620_41_50",0.0856478,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,55.67107
+"626","Surface Fire","13620_51_63_64_65_66",0.0150754,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,37310.0170076
+"627","Surface Fire","13622_41_50",0.025088,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2724,2163502,3.4,54277.938176
+"628","Surface Fire","13622_41_50",0.025088,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2726,1896775,3,47586.2912
+"629","Surface Fire","13660_50",0.0034608,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1569,535983,0.9,1854.9299664
+"630","Surface Fire","13660_51_63_64_65_66",0.0033762,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1091156,1.7,3683.9608872
+"631","Surface Fire","13940_39_40_41",0.1992284,"North-Central Interior Oak Savanna",1599,97467,0.2,19418.1944628
+"632","Surface Fire","13940_39_40_41",0.1992284,"North-Central Interior Oak Savanna",1652,453,0,90.2504652
+"633","Surface Fire","13940_50_51",0.1830998,"North-Central Interior Oak Savanna",1570,240826,0.4,44095.1924348
+"634","Surface Fire","13950_41_42_43_49_52",0.1945376,"North-Central Oak Barrens",1600,77789,0.1,15132.8853664
+"635","Surface Fire","13950_50",0.1804358,"North-Central Oak Barrens",1571,23594,0,4257.2022652
+"636","Surface Fire","14071_41_50_51",0.2054626,"Laurentian Pine-Oak Barrens",1628,998246,1.6,205102.2185996
+"637","Surface Fire","14071_41_50_51",0.2054626,"Laurentian Pine-Oak Barrens",1601,53326,0.1,10956.4986076
+"638","Surface Fire","14071_41_50_51",0.2054626,"Laurentian Pine-Oak Barrens",1572,25156,0,5168.6171656
+"639","Surface Fire","14072_41_50_51",0.0567286,"Laurentian Pine-Oak Barrens - Jack Pine",1602,2107486,3.4,119554.7302996
+"640","Surface Fire","14072_41_50_51",0.0567286,"Laurentian Pine-Oak Barrens - Jack Pine",1573,225231,0.4,12777.0393066
+"641","Surface Fire","14072_41_50_51",0.0567286,"Laurentian Pine-Oak Barrens - Jack Pine",1629,135983,0.2,7714.1252138
+"642","Surface Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",1575,18815,0,217.520215
+"643","Surface Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",1603,6437,0,74.418157
+"644","Surface Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",1631,5463,0,63.157743
+"645","Surface Fire","14120_39_40_41_42_43_50_51",0.011561,"North-Central Interior Sand and Gravel Tallgrass Prairie",1653,608,0,7.029088
+"646","Surface Fire","14440_41_50_51",0.0032354,"Eastern Boreal Floodplain",1605,705055,1.1,2281.134947
+"647","Surface Fire","14440_41_50_51",0.0032354,"Eastern Boreal Floodplain",1633,90068,0.1,291.4060072
+"648","Surface Fire","14440_41_50_51",0.0032354,"Eastern Boreal Floodplain",1577,12545,0,40.588093
+"649","Surface Fire","14690_31_39_40_43",0.0056576,"Eastern Great Plains Floodplain Systems",1655,9,0,0.0509184
+"650","Surface Fire","14710_41_50",0.0150538,"Central Interior and Appalachian Floodplain Systems",1579,17514,0,263.6522532
+"651","Surface Fire","14710_41_50",0.0150538,"Central Interior and Appalachian Floodplain Systems",1606,19197,0,288.9877986
+"652","Surface Fire","14710_51_62",0.0145488,"Central Interior and Appalachian Floodplain Systems",1635,74339,0.1,1081.5432432
+"653","Surface Fire","14750_41_50_51_63_64_65_66",0.0147688,"Laurentian-Acadian Floodplain Systems",1607,434621,0.7,6418.8306248
+"654","Surface Fire","14750_41_50_51_63_64_65_66",0.0147688,"Laurentian-Acadian Floodplain Systems",1636,223804,0.4,3305.3165152
+"655","Surface Fire","14750_41_50_51_63_64_65_66",0.0147688,"Laurentian-Acadian Floodplain Systems",1580,180397,0.3,2664.2472136
+"656","Surface Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",1608,4275013,6.8,35190.1970108
+"657","Surface Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",1581,1712958,2.7,14100.3850728
+"658","Surface Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",1637,1388897,2.2,11432.8445452
+"659","Surface Fire","14770_40_41_50_51",0.0082316,"Boreal Acidic Peatland Systems",1656,50985,0.1,419.688126
+"660","Surface Fire","15170_42_49_50",0.0098634,"Paleozoic Plateau Bluff and Talus",1587,8763,0,86.4329742
+"661","Wind or Weather or Stress","13020_40",0.0009684,"Laurentian-Acadian Northern Hardwoods Forest",1647,29,0,0.0280836
+"662","Wind or Weather or Stress","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1614,5221136,8.3,4785.6932576
+"663","Wind or Weather or Stress","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1561,4826790,7.7,4424.235714
+"664","Wind or Weather or Stress","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1588,3367389,5.4,3086.5487574
+"665","Wind or Weather or Stress","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1562,3200465,5.1,2933.546219
+"666","Wind or Weather or Stress","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1615,2241937,3.6,2054.9594542
+"667","Wind or Weather or Stress","13022_41_50_51",0.0009166,"Laurentian-Acadian Northern Hardwoods Forest - Hemlock",1589,380744,0.6,348.9899504
+"668","Wind or Weather or Stress","13023_51",0.0018066,"Laurentian-Acadian Northern Hardwoods Forest - Northern Sugar Maple-Basswood",1616,101763,0.2,183.8450358
+"669","Wind or Weather or Stress","13100_41_62",0.0005396,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1590,561561,0.9,303.0183156
+"670","Wind or Weather or Stress","13100_44_50",0.0008532,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1563,105714,0.2,90.1951848
+"671","Wind or Weather or Stress","13100_51",0.000909,"North-Central Interior Dry-Mesic Oak Forest and Woodland",1617,1291,0,1.173519
+"672","Wind or Weather or Stress","13110_50",0.0013354,"North-Central Interior Dry Oak Forest and Woodland",1564,12654,0,16.8981516
+"673","Wind or Weather or Stress","13110_51",0.001093,"North-Central Interior Dry Oak Forest and Woodland",1618,9911,0,10.832723
+"674","Wind or Weather or Stress","13130_47_50_51",0.140167,"North-Central Interior Beech-Maple Forest",1565,32864,0.1,4606.448288
+"675","Wind or Weather or Stress","13130_47_50_51",0.140167,"North-Central Interior Beech-Maple Forest",1619,36117,0.1,5062.411539
+"676","Wind or Weather or Stress","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",1591,492628,0.8,69105.7573144
+"677","Wind or Weather or Stress","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",1566,201633,0.3,28285.0369134
+"678","Wind or Weather or Stress","13140_38_39_40_41_42_43_44_50",0.1402798,"North-Central Interior Maple-Basswood Forest",1648,157,0,22.0239286
+"679","Wind or Weather or Stress","13310_39_40_41",0.0106572,"Eastern Great Plains Tallgrass Aspen Parkland",1592,27154,0,289.3856088
+"680","Wind or Weather or Stress","13310_39_40_41",0.0106572,"Eastern Great Plains Tallgrass Aspen Parkland",1649,2733,0,29.1261276
+"681","Wind or Weather or Stress","13440_41",0.0009788,"Boreal Jack Pine-Black Spruce Forest",1593,768332,1.2,752.0433616
+"682","Wind or Weather or Stress","13442_51",0.0006868,"Boreal Jack Pine-Black Spruce Forest - Spruce-Fir",1621,61190,0.1,42.025292
+"683","Wind or Weather or Stress","13620_41_50",0.0017146,"Laurentian-Acadian Northern Pine(-Oak) Forest",2723,243,0,0.4166478
+"684","Wind or Weather or Stress","13620_41_50",0.0017146,"Laurentian-Acadian Northern Pine(-Oak) Forest",2725,650,0,1.11449
+"685","Wind or Weather or Stress","13620_51_63_64_65_66",0.0033668,"Laurentian-Acadian Northern Pine(-Oak) Forest",1622,2474894,3.9,8332.4731192
+"686","Wind or Weather or Stress","13622_41_50",0.0009526,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2724,2163502,3.4,2060.9520052
+"687","Wind or Weather or Stress","13622_41_50",0.0009526,"Laurentian-Acadian Northern Pine(-Oak) Forest - Pine Dominated",2726,1896775,3,1806.867865
+"688","Wind or Weather or Stress","13651_40_41_50",0.0008224,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1596,2869819,4.6,2360.1391456
+"689","Wind or Weather or Stress","13651_40_41_50",0.0008224,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1568,232481,0.4,191.1923744
+"690","Wind or Weather or Stress","13651_40_41_50",0.0008224,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1650,453,0,0.3725472
+"691","Wind or Weather or Stress","13651_51",0.0662576,"Boreal White Spruce-Fir-Hardwood Forest - Inland",1623,1207476,1.9,80004.4618176
+"692","Wind or Weather or Stress","13652_41",0.0009174,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1597,551175,0.9,505.647945
+"693","Wind or Weather or Stress","13652_51",0.0008264,"Boreal White Spruce-Fir-Hardwood Forest - Coastal",1624,731479,1.2,604.4942456
+"694","Wind or Weather or Stress","13660_50",0.0010004,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1569,535983,0.9,536.1973932
+"695","Wind or Weather or Stress","13660_51_63_64_65_66",0.0009622,"Laurentian-Acadian Pine-Hemlock-Hardwood Forest",1625,1091156,1.7,1049.9103032
+"696","Wind or Weather or Stress","13940_39_40_41",0.001029,"North-Central Interior Oak Savanna",1599,97467,0.2,100.293543
+"697","Wind or Weather or Stress","13940_39_40_41",0.001029,"North-Central Interior Oak Savanna",1652,453,0,0.466137
+"698","Wind or Weather or Stress","13940_50_51",0.0009356,"North-Central Interior Oak Savanna",1570,240826,0.4,225.3168056
+"699","Wind or Weather or Stress","13950_41_42_43_49_52",0.0019268,"North-Central Oak Barrens",1600,77789,0.1,149.8838452
+"700","Wind or Weather or Stress","13950_50",0.035346,"North-Central Oak Barrens",1571,23594,0,833.953524
+"701","Wind or Weather or Stress","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",1575,18815,0,121.710472
+"702","Wind or Weather or Stress","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",1603,6437,0,41.6396656
+"703","Wind or Weather or Stress","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",1631,5463,0,35.3390544
+"704","Wind or Weather or Stress","14120_39_40_41_42_43_50_51",0.0064688,"North-Central Interior Sand and Gravel Tallgrass Prairie",1653,608,0,3.9330304
+"705","Wind or Weather or Stress","14200_41",0.0242092,"Northern Tallgrass Prairie",1604,7821,0,189.3401532
+"706","Wind or Weather or Stress","14210_31_38_42_43_44_50_51",0.024255,"Central Tallgrass Prairie",1576,9858,0,239.10579
+"707","Wind or Weather or Stress","14660_50_51",0.0046876,"Great Lakes Wooded Dune and Swale",1578,32167,0.1,150.7860292
+"708","Wind or Weather or Stress","14660_50_51",0.0046876,"Great Lakes Wooded Dune and Swale",1634,13046,0,61.1544296
+"709","Wind or Weather or Stress","14690_31_39_40_43",0.0536428,"Eastern Great Plains Floodplain Systems",1655,9,0,0.4827852
+"710","Wind or Weather or Stress","14770_40_41_50_51",0.002846,"Boreal Acidic Peatland Systems",1608,4275013,6.8,12166.686998
+"711","Wind or Weather or Stress","14770_40_41_50_51",0.002846,"Boreal Acidic Peatland Systems",1581,1712958,2.7,4875.078468
+"712","Wind or Weather or Stress","14770_40_41_50_51",0.002846,"Boreal Acidic Peatland Systems",1637,1388897,2.2,3952.800862
+"713","Wind or Weather or Stress","14770_40_41_50_51",0.002846,"Boreal Acidic Peatland Systems",1656,50985,0.1,145.10331
+"714","Wind or Weather or Stress","14790_41_42_47_48_50_51_53",0.0081426,"Central Interior and Appalachian Swamp Systems",1609,36647,0.1,298.4018622
+"715","Wind or Weather or Stress","14790_41_42_47_48_50_51_53",0.0081426,"Central Interior and Appalachian Swamp Systems",1582,8453,0,68.8293978
+"716","Wind or Weather or Stress","14790_41_42_47_48_50_51_53",0.0081426,"Central Interior and Appalachian Swamp Systems",1638,21007,0,171.0515982
+"717","Wind or Weather or Stress","14810_41_50_51_63",0.0041718,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1639,3593603,5.7,14991.7929954
+"718","Wind or Weather or Stress","14810_41_50_51_63",0.0041718,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1583,1056194,1.7,4406.2301292
+"719","Wind or Weather or Stress","14810_41_50_51_63",0.0041718,"Laurentian-Acadian Alkaline Conifer-Hardwood Swamp",1610,1094690,1.7,4566.827742
+"720","Wind or Weather or Stress","14820_39_40",0.0197786,"Great Plains Prairie Pothole",1657,109,0,2.1558674
+"721","Wind or Weather or Stress","14930_41_42_44_50",0.3289922,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1612,31866,0.1,10483.6654452
+"722","Wind or Weather or Stress","14930_41_42_44_50",0.3289922,"Central Interior and Appalachian Shrub-Herbaceous Wetland Systems",1585,2660,0,875.119252
+"723","Wind or Weather or Stress","14940_41_50_51",0.3168432,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1613,785906,1.3,249008.9719392
+"724","Wind or Weather or Stress","14940_41_50_51",0.3168432,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1586,209832,0.3,66483.8423424
+"725","Wind or Weather or Stress","14940_41_50_51",0.3168432,"Laurentian-Acadian Shrub-Herbaceous Wetland Systems",1641,1106,0,350.4285792
+"726","Wind or Weather or Stress","14950_31_39_40",0.0988416,"Western Great Plains Depressional Wetland Systems",1658,422,0,41.7111552
+"727","Wind or Weather or Stress","15170_42_49_50",0.0007412,"Paleozoic Plateau Bluff and Talus",1587,8763,0,6.4951356

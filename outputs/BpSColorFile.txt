@@ -1,0 +1,50 @@
+1608,106,0,138,255,Acidic Peatland Systems
+1581,106,0,138,255,Acidic Peatland Systems
+1637,106,0,138,255,Acidic Peatland Systems
+1656,106,0,138,255,Acidic Peatland Systems
+1593,255,140,140,255,Jack Pine-Black Spruce Forest
+1620,255,140,140,255,Jack Pine-Black Spruce Forest-Pine Barrens
+1598,255,255,145,255,White Spruce-Fir-Hardwood Forest-Aspen-Birch
+1624,110,137,70,255,White Spruce-Fir-Hardwood Forest-Coastal
+1597,110,137,70,255,White Spruce-Fir-Hardwood Forest-Coastal
+1596,147,194,114,255,White Spruce-Fir-Hardwood Forest-Inland
+1623,147,194,114,255,White Spruce-Fir-Hardwood Forest-Inland
+1568,147,194,114,255,White Spruce-Fir-Hardwood Forest-Inland
+1650,147,194,114,255,White Spruce-Fir-Hardwood Forest-Inland
+1605,69,69,156,255,Eastern Floodplain
+1633,69,69,156,255,Eastern Floodplain
+1577,69,69,156,255,Eastern Floodplain
+1628,153,66,0,255,Pine-Oak Barrens
+1601,153,66,0,255,Pine-Oak Barrens
+1572,153,66,0,255,Pine-Oak Barrens
+1602,153,66,100,255,Pine-Oak Barrens-Jack Pine
+1573,153,66,100,255,Pine-Oak Barrens-Jack Pine
+1629,153,66,100,255,Pine-Oak Barrens-Jack Pine
+1639,232,189,255,255,Alkaline Conifer-Hardwood Swamp
+1583,232,189,255,255,Alkaline Conifer-Hardwood Swamp
+1610,232,189,255,255,Alkaline Conifer-Hardwood Swamp
+1607,122,143,245,255,Floodplain Systems
+1636,122,143,245,255,Floodplain Systems
+1580,122,143,245,255,Floodplain Systems
+1614,76,230,0,255,Northern Hardwoods Forest-Hemlock
+1561,76,230,0,255,Northern Hardwoods Forest-Hemlock
+1588,76,230,0,255,Northern Hardwoods Forest-Hemlock
+1562,76,230,150,255,Northern Hardwoods Forest-Hemlock
+1615,76,230,150,255,Northern Hardwoods Forest-Hemlock
+1589,76,230,150,255,Northern Hardwoods Forest-Hemlock
+1622,255,191,191,255,Northern Pine(-Oak) Forest
+2723,255,191,191,255,Northern Pine(-Oak) Forest
+2725,255,191,191,255,Northern Pine(-Oak) Forest
+2724,255,167,127,255,Northern Pine(-Oak) Forest-Pine Dominated
+2726,255,167,127,255,Northern Pine(-Oak) Forest-Pine Dominated
+1625,208,255,99,255,Pine-Hemlock-Hardwood Forest
+1569,208,255,99,255,Pine-Hemlock-Hardwood Forest
+1613,0,168,107,255,Shrub-Herbaceous Wetland Systems
+1586,0,168,107,255,Shrub-Herbaceous Wetland Systems
+1641,0,168,107,255,Shrub-Herbaceous Wetland Systems
+1590,176,163,222,255,Dry-Mesic Oak Forest and Woodland
+1563,176,163,222,255,Dry-Mesic Oak Forest and Woodland
+1617,176,163,222,255,Dry-Mesic Oak Forest and Woodland
+1591,237,161,102,255,Maple-Basswood Forest
+1566,237,161,102,255,Maple-Basswood Forest
+1648,237,161,102,255,Maple-Basswood Forest

@@ -1,0 +1,9 @@
+---
+title: "Northwoods Fire Strategy-Data and Science Needs"
+format: html
+---
+
+**Main goal is to prevent catestropic wildfires that harm people and ecosystems**
+
+## First phase data exploration
+
