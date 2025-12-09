@@ -1,0 +1,11 @@
+---
+title: "Current risk"
+---
+
+**INCOMPLETE DRAFT FOR INTERNAL CONSUMPTION ONLY**
+
+## Wildfire Exposure Risk
+
+Using methods of Dr. Jennifer Beverly (see https://link.springer.com/content/pdf/10.1007/s10980-020-01173-8.pdf) and fire hazard assignments from Robert ('Zeke') Zeil we generated this draft map.
+
+![Draft Wildfire Exposure Risk.](assets/wfe.jpg){style="float:right; margin-left: 5%; fig-align:right; width:100%;" fig-alt=""}

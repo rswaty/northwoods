@@ -2,9 +2,12 @@
 title: "Northwoods Fire Assessment"
 ---
 
+**INCOMPLETE DRAFT FOR INTERNAL CONSUMPTION ONLY**
+
+
 ### Why this why now: Evaluating the potential for transformational changes in ecosystem condition and wildfire risk for the Northwoods region
 
-Wildfires, drought, ice- and windstorm events, and other natural disturbances are foundational processes that shape the condition of ecosystems, and the services they provide to people.  Anthropogenic drivers like introduced pests and pathogens, groundwater depletion, and fire suppression can disrupt natural processes, and reduce the resilience of forest ecosystems to disturbances.  
+Wildfires, drought, ice and windstorm events, and other natural disturbances are foundational processes that shape the condition of ecosystems, and the services they provide to people.  Anthropogenic drivers like introduced pests and pathogens, groundwater depletion, and fire suppression can disrupt natural processes, and reduce the resilience of forest ecosystems to disturbances.  
 
 ![Northwods Fire Assessment Boundary.  Compiled by Randy Swaty from Bailey's Ecoregions (Bailey, 2016.  https://doi.org/10.2737/RDS-2016-0003)](assets/Northwoods.jpg){style="float:right; margin-left: 5%; fig-align:right; width:50%;" fig-alt="\"Map of a grey polygon representing the Northwoods Fire Assessment Boundary.  Northeastern Minnesota, northern Wisconsin, The Upper Peninsula and northern half of the Lower Peninsula of Michigan."}
 

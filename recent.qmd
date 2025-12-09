@@ -1,0 +1,287 @@
+---
+title: "Recent fires"
+---
+
+```{r}
+#| label: recent fires setup
+#| message: false
+#| warning: false
+#| include: false
+
+library(lubridate)
+library(scales)
+library(tidyverse)
+
+# raw data
+fod_data <- read_csv('inputs/short_fod_1992_2020.csv')
+
+month_labels <- month.abb      
+
+# for size distribution chart
+
+fire_sizes <- fod_data |>
+  select(FIRE_SIZE, DISCOVERY_DATE)
+
+# clean up with dates
+fire_date <- fod_data |>
+  select(c(DISCOVERY_DATE, FIRE_SIZE)) |>
+  mutate(DISCOVERY_DATE = mdy(DISCOVERY_DATE),
+  month = month(DISCOVERY_DATE),
+  day = day(DISCOVERY_DATE),
+  year = year(DISCOVERY_DATE))
+
+# base for bar charts
+month_year_count <- fire_date |>
+  group_by(month, year) |>
+  summarize(count = n()) 
+
+# for yearly bar chart
+year_count <- month_year_count |>
+  group_by(year) |>
+  summarize(count = sum(count))
+
+# for monthly mean bar chart
+
+monthly_mean <- month_year_count |>
+  group_by(month) |>
+  summarize(mean = round(mean(count)))
+
+
+
+
+## for ridgeline
+
+daily_counts <- fire_date %>%
+  mutate(
+    date  = as.Date(DISCOVERY_DATE),
+    month = as.integer(month)
+  ) %>%
+  group_by(date, month) %>%
+  summarise(count = n(), .groups = "drop")
+
+daily_counts_faceted <- daily_counts %>%
+  mutate(
+    year = year(date),
+    doy  = yday(date)   # day-of-year for x-axis
+  )
+
+# month ticks for a 365-day year 
+# first-day-of-month DOY positions (non-leap):
+month_breaks <- c(1, 32, 60, 91, 121, 152, 182, 213, 244, 274, 305, 335)
+month_labels <- month.abb                      # "Jan", "Feb", ...
+
+# ensure continuous DOY per year (counts remain raw; NOT scaled)
+df_full <- daily_counts_faceted %>%
+  mutate(year = as.integer(year)) %>%
+  group_by(year) %>%
+  tidyr::complete(doy = 1:365, fill = list(count = 0)) %>%
+  ungroup()
+
+# order years and create numeric Y positions for extra separation -----
+years_ord <- sort(unique(df_full$year), decreasing = TRUE)  # earliest at top; flip if preferred
+gap <- 30                                             # increase for more separation
+
+year_positions <- tibble(
+  year = years_ord,
+  y_pos = seq_along(years_ord) * gap
+)
+
+df_plot <- df_full %>%
+  left_join(year_positions, by = "year")
+
+
+
+
+```
+
+
+**INCOMPLETE DRAFT FOR INTERNAL CONSUMPTION ONLY**
+
+## Summary
+
+In the period between 1992 and 2020 over 74,000 fires were recorded for the Northwoods region (data from Short 2022).  While most of these were immediately suppressed, this number is substantial.  Below we explore:
+
+* fire count and size trends
+* seasonality
+* location
+
+## Fire Count and Monthly Trends
+
+The mean number of fires per year in the Northwoods is ~2550, with a range of 1,220 - 4,242 per year.  
+
+
+```{r}
+#| label: fires per year
+#| echo: false
+#| message: false
+#| warning: false
+#| fig.width: 10
+#| fig.height: 7
+
+ggplot(year_count, aes(x = year, y = count)) +
+  geom_bar(stat = "identity", fill = "#4e79a7" ) +
+  geom_smooth(method = "loess", span = 0.4, se = FALSE, color = "#faa302", linewidth = 1) +
+  scale_y_continuous(labels = scales::comma_format()) +
+  scale_x_continuous(
+    breaks = seq(1992, 2020, by = 2),  # every other year
+    minor_breaks = NULL,  # cleaner axis
+    expand = expansion(mult = c(0, 0.02))
+  ) +
+  labs(
+    x = "",
+    y = "Number of Fires",
+    title = "Total Number of Fires reported between 1992 - 2020",
+    subtitle = "Data from Karen Short (2022)",
+    caption = "Chart by Randy Swaty (rswaty@tnc.org)"
+) +
+  theme_bw(base_size = 16)
+  
+
+
+
+
+
+
+```
+
+<br>
+
+The mean number of fires over the 28 year time period ranged from 6 - 1,0222, with the highest number of fires occurring in April.
+
+```{r}
+#| label: fires by month
+#| echo: false
+#| message: false
+#| warning: false
+#| fig.width: 10
+#| fig.height: 7
+
+ggplot(monthly_mean, aes(x = month, y = mean)) +
+  geom_bar(stat = "identity", fill = "#5d4d73" ) +
+  #geom_smooth(method = "loess", span = 0.4, se = FALSE, color = "#faa302", linewidth = 1) +
+  scale_y_continuous(labels = scales::comma_format()) +
+  scale_x_continuous(
+    breaks = 1:12,                  # numeric breaks
+    labels = month_labels,          # your character labels
+    minor_breaks = NULL,
+    expand = expansion(mult = c(0, 0.02))) +
+  labs(
+    x = "",
+    y = "Number of Fires",
+    title = "Total Number of Fires reported between 1992 - 2020",
+    subtitle = "Data from Karen Short (2022)",
+    caption = "Chart by Randy Swaty (rswaty@tnc.org)") +
+  theme_bw(base_size = 16)
+  
+
+
+```
+
+<br>
+
+Pulling it altogether in the following ridgeline chart allows for exploration across months for the entire time period.  The highest peaks represent 217 fires (which occurred July 14, 2005)
+
+
+
+```{r}
+#| label: ridgeline
+#| echo: false
+#| message: false
+#| warning: false
+#| fig.height: 12
+#| fig.width: 10
+
+# ----- 3) Plot: raw heights, month labels on x-axis, separated ridges -----
+ggplot(df_plot, aes(x = doy, y = y_pos, height = count, group = year)) +
+  ggridges::geom_ridgeline(
+    fill = "#4e79a7",    # use NA for outline-only
+    color = "#2f4e7a",
+    linewidth = 0.10,    # use linewidth (not size)
+    scale = 1
+  ) +
+  # Optional crisp white top line
+  ggridges::geom_ridgeline(
+    color = "grey",
+    linewidth = 0.10,
+    fill = NA
+  ) +
+  scale_x_continuous(
+    breaks = month_breaks,
+    labels = month_labels,
+    expand = c(0, 0)
+  ) +
+  scale_y_continuous(
+    breaks = year_positions$y_pos,
+    labels = year_positions$year
+  ) +
+  labs(x = NULL, y = NULL) +
+  theme_minimal(base_size = 16) 
+
+
+
+
+
+
+
+```
+
+
+
+## Fire size distribution
+
+Roughly 70,000 of the reported fires were less than 10 acres, and ~600 fires were greater than 100 acres.
+
+```{r}
+#| label: fire size ditribution
+#| echo: false
+#| message: false
+#| warning: false
+#| fig.width: 10
+#| fig.height: 7
+
+fs <- fire_sizes |>
+  filter(!is.na(FIRE_SIZE))
+
+rng <- range(fs$FIRE_SIZE, na.rm = TRUE)
+bins <- 100
+width <- (rng[2] - rng[1]) / bins
+
+# Build explicit breaks
+brks <- seq(from = rng[1], to = rng[2], by = width)
+
+# Use hist() to get counts and midpoints reliably
+h <- hist(fs$FIRE_SIZE, breaks = brks, plot = FALSE, include.lowest = TRUE)
+
+binned <- data.frame(size_mid = h$mids, count = h$counts)
+
+
+ggplot(binned, aes(x = size_mid, y = count)) +
+  geom_line(color = "#4e79a7", linewidth = 1) +
+  geom_smooth(method = "loess", span = 0.4, se = FALSE,
+              color = "#faa302", linewidth = 1) +
+  labs(
+    x = "Fire Size (Acres)",
+    y = "Number of Fires",
+    title = "Smoothed Distribution of Fire Sizes (fixed-width bins)",
+    subtitle = "Data from Karen Short (2022)",
+    caption = "Chart by Randy Swaty (rswaty@tnc.org)") +
+  scale_y_continuous(labels = scales::comma_format()) +
+  scale_x_continuous(labels = scales::comma_format()) +
+  theme_minimal(base_size = 16)
+
+
+
+```
+
+
+## Spatial Distribution of Fires
+
+For the map below I clipped the Short (2022) fire occurrence data to the Northwoods perimeter with a buffer of 10km, as this data was coupled with perimeter data for exploration as some fires extended outside of the Northwoods area.  The dataset has a cause attribute which was used to categorize 'natural' vs. 'human' causes. 
+
+![Fire occurances within the Northwods fire assessment boundary (plus 10km buffer) for 1992 - 2020.  ](assets/fire_occ_1992_2020.jpg){style="float:right; margin-left: 5%; fig-align:right; width:100%;" fig-alt=""}
+
+
+
+
+
+

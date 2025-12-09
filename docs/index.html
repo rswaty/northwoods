@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Northwoods Fire Assessment – LANDFIRE R Toolkit</title>
+<title>Northwoods Fire Assessment</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -36,12 +36,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-24772959a0e306aba8d7698078628ce7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,21 +71,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-T03MCC6N19"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-T03MCC6N19', { 'anonymize_ip': true});
-</script>
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-dark"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -225,8 +218,10 @@ gtag('config', 'G-T03MCC6N19', { 'anonymize_ip': true});
         changeGiscusTheme();
       }
     };
-    const authorPrefersDark = true;
+    const authorPrefersDark = false;
     const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
     let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
     // Dark / light mode switch
     window.quartoToggleColorScheme = () => {
@@ -250,10 +245,8 @@ gtag('config', 'G-T03MCC6N19', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">LANDFIRE R Toolkit</span>
+    <span class="navbar-title">Northwoods Fire Assessment</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -267,34 +260,16 @@ gtag('config', 'G-T03MCC6N19', { 'anonymize_ip': true});
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./download.qmd"> 
-<span class="menu-text">Download data</span></a>
+    <a class="nav-link" href="./historical.html"> 
+<span class="menu-text">Historical context</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./prep_rasters.qmd"> 
-<span class="menu-text">Prepare rasters</span></a>
+    <a class="nav-link" href="./recent.html"> 
+<span class="menu-text">Recent fires</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./make_charts.qmd"> 
-<span class="menu-text">Make charts</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./make_hex_map.qmd"> 
-<span class="menu-text">Make hex map</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./compiled_code.qmd"> 
-<span class="menu-text">Compiled code</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.qmd"> 
-<span class="menu-text">About</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text"><img src="./assets/LANDFIRE.png" alt="LANDFIRE Logo" style="height:40px;"></span></a>
+    <a class="nav-link" href="./risk.html"> 
+<span class="menu-text">Current risk</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -314,7 +289,6 @@ gtag('config', 'G-T03MCC6N19', { 'anonymize_ip': true});
    
   <ul>
   <li><a href="#why-this-why-now-evaluating-the-potential-for-transformational-changes-in-ecosystem-condition-and-wildfire-risk-for-the-northwoods-region" id="toc-why-this-why-now-evaluating-the-potential-for-transformational-changes-in-ecosystem-condition-and-wildfire-risk-for-the-northwoods-region" class="nav-link active" data-scroll-target="#why-this-why-now-evaluating-the-potential-for-transformational-changes-in-ecosystem-condition-and-wildfire-risk-for-the-northwoods-region">Why this why now: Evaluating the potential for transformational changes in ecosystem condition and wildfire risk for the Northwoods region</a></li>
-  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   </ul>
 </nav>
     </div>
@@ -341,9 +315,10 @@ gtag('config', 'G-T03MCC6N19', { 'anonymize_ip': true});
 </header>
 
 
+<p><strong>INCOMPLETE DRAFT FOR INTERNAL CONSUMPTION ONLY</strong></p>
 <section id="why-this-why-now-evaluating-the-potential-for-transformational-changes-in-ecosystem-condition-and-wildfire-risk-for-the-northwoods-region" class="level3">
 <h3 class="anchored" data-anchor-id="why-this-why-now-evaluating-the-potential-for-transformational-changes-in-ecosystem-condition-and-wildfire-risk-for-the-northwoods-region">Why this why now: Evaluating the potential for transformational changes in ecosystem condition and wildfire risk for the Northwoods region</h3>
-<p>Wildfires, drought, ice- and windstorm events, and other natural disturbances are foundational processes that shape the condition of ecosystems, and the services they provide to people. Anthropogenic drivers like introduced pests and pathogens, groundwater depletion, and fire suppression can disrupt natural processes, and reduce the resilience of forest ecosystems to disturbances.</p>
+<p>Wildfires, drought, ice and windstorm events, and other natural disturbances are foundational processes that shape the condition of ecosystems, and the services they provide to people. Anthropogenic drivers like introduced pests and pathogens, groundwater depletion, and fire suppression can disrupt natural processes, and reduce the resilience of forest ecosystems to disturbances.</p>
 <div class="quarto-figure quarto-figure-center" style="float:right; margin-left: 5%; fig-align:right; width:50%;">
 <figure class="figure">
 <p><img src="assets/Northwoods.jpg" class="img-fluid figure-img" alt="&quot;Map of a grey polygon representing the Northwoods Fire Assessment Boundary.  Northeastern Minnesota, northern Wisconsin, The Upper Peninsula and northern half of the Lower Peninsula of Michigan."></p>
@@ -352,9 +327,6 @@ gtag('config', 'G-T03MCC6N19', { 'anonymize_ip': true});
 </div>
 <p>Further, we expect that climate change, especially temperature-related increases in evaporative demand (a key indicator of water loss rates from soils and vegetation), has the potential to rapidly amplify the effects of anthropogenic stressors, promoting drought stress in forest vegetation, and transformational increases in fire risk.</p>
 <p>While these risks to forests of the Northwoods Region are pervasive and associated with many uncertainties, understanding the spatial patterns of past disturbances, current vegetation conditions, management and water use history, and site conditions can help us compare relative risks for catastrophic fires.</p>
-</section>
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
 
 
 </section>

@@ -5,16 +5,12 @@ project:
     watch-inputs: false
   render:
     - index.qmd
-    - download.qmd
-    - prep_rasters.qmd
-    - make_charts.qmd
-    - make_hex_map.qmd
-    - compiled_code.qmd
-    - about.qmd
+    - historical.qmd
+    - recent.qmd
+    - risk.qmd
 
 website:
-  title: "LANDFIRE R Toolkit"
-  google-analytics: G-T03MCC6N19
+  title: "Northwoods Fire Assessment"
   navbar:
     search: TRUE
     pinned: true
@@ -22,34 +18,25 @@ website:
       - href: index.qmd
         text: Home
         
-      - href: download.qmd
-        text: Download data
+      - href: historical.qmd
+        text: Historical context
+        
+      - href: recent.qmd
+        text: Recent fires
+        
+      - href: risk.qmd
+        text: Current risk
 
-        
-      - href: prep_rasters.qmd
-        text: Prepare rasters
 
-      - href: make_charts.qmd
-        text: Make charts
-        
-      - href: make_hex_map.qmd
-        text: Make hex map
-        
-      - href: compiled_code.qmd
-        text: Compiled code
-        
-      - href: about.qmd
-        text: About
-    right:
-      - href: index.qmd
-        text: "<img src='/assets/LANDFIRE.png' alt='LANDFIRE Logo' style='height:40px;'>"
+
       
 format:
   html:
     page-layout: full
     theme: 
-      dark: darkly
       light: flatly
+      dark: darkly
+      
     css: styles.css
     toc: true
     toc-depth: 3

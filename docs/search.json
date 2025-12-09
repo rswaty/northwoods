@@ -1,9 +1,79 @@
 [
   {
+    "objectID": "risk.html",
+    "href": "risk.html",
+    "title": "Current risk",
+    "section": "",
+    "text": "INCOMPLETE DRAFT FOR INTERNAL CONSUMPTION ONLY"
+  },
+  {
+    "objectID": "risk.html#wildfire-exposure-risk",
+    "href": "risk.html#wildfire-exposure-risk",
+    "title": "Current risk",
+    "section": "Wildfire Exposure Risk",
+    "text": "Wildfire Exposure Risk\nUsing methods of Dr. Jennifer Beverly (see https://link.springer.com/content/pdf/10.1007/s10980-020-01173-8.pdf) and fire hazard assignments from Robert (‘Zeke’) Zeil we generated this draft map.\n\n\n\nDraft Wildfire Exposure Risk."
+  },
+  {
+    "objectID": "historical.html",
+    "href": "historical.html",
+    "title": "Historical Fire Regimes",
+    "section": "",
+    "text": "INCOMPLETE DRAFT FOR INTERNAL CONSUMPTION ONLY"
+  },
+  {
+    "objectID": "historical.html#summary",
+    "href": "historical.html#summary",
+    "title": "Historical Fire Regimes",
+    "section": "Summary",
+    "text": "Summary\nHistorically the Northwoods experienced, on average, ~1.2M acres of fire annually. These fires were largely ignited as part of Indigenous land management practices (see Stewart, 2002). Areas with relatively short historical MFRIs were spread across the region with several areas standing out including:\n\ncentral Minnesota\nnortheastern and northwestern Wisconsin\nlarge sections of the northern half of the lower peninsula of MI\n\nWhile these large areas stand out, there are historically fire adapted ecosystems peppered across much of the region. Notably, some of the fire-adapted ecosystems were surrounded by ecosystems with typically long MFRIs, such as northern hardwoods limiting spread. Further, most of the ecosystems with short MFRI were dominated by surface fires that would have killed less than 25% of the vegetation.\n\n\n\nMost historical fires occurred in pine, oak and peatland dominated ecosystems, especially the barrens types."
+  },
+  {
+    "objectID": "historical.html#wrangled-data",
+    "href": "historical.html#wrangled-data",
+    "title": "Historical Fire Regimes",
+    "section": "Wrangled Data",
+    "text": "Wrangled Data\nBelow you can review the data after minor wrangling (e.g., cleaning column names, summing and averaging by BpS Name).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBPS\nNAME\nMean\nReplacement\nFRI\nMean\nMixed\nFRI\nMean\nSurface\nFRI\nTotal\nAnnual\nFire\nAcres\nTotal\nAcres\n\n\n\n\nLaurentian-Acadian Northern Hardwoods Forest-Hemlock\n2,040\n0\n0\n9,431\n19,238,461\n\n\nBoreal Acidic Peatland Systems\n716\n0\n123\n70,741\n7,427,853\n\n\nLaurentian-Acadian Alkaline Conifer-Hardwood Swamp\n989\n0\n0\n5,808\n5,744,487\n\n\nBoreal White Spruce-Fir-Hardwood Forest-Inland\n310\n1,232\n0\n19,340\n4,310,229\n\n\nLaurentian-Acadian Northern Pine(-Oak) Forest-Pine Dominated\n230\n0\n40\n119,420\n4,060,277\n\n\nBoreal White Spruce-Fir-Hardwood Forest-Aspen-Birch\n112\n243\n0\n41,884\n3,183,156\n\n\nLaurentian-Acadian Northern Pine(-Oak) Forest\n340\n602\n30\n51,641\n2,475,787\n\n\nLaurentian Pine-Oak Barrens-Jack Pine\n25\n46\n18\n308,588\n2,468,700\n\n\nLaurentian-Acadian Pine-Hemlock-Hardwood Forest\n482\n1,008\n290\n10,612\n1,627,139\n\n\nBoreal White Spruce-Fir-Hardwood Forest-Coastal\n906\n1,226\n0\n2,467\n1,282,654\n\n\nLaurentian Pine-Oak Barrens\n109\n75\n5\n269,182\n1,076,728\n\n\nLaurentian-Acadian Shrub-Herbaceous Wetland Systems\n18\n0\n0\n55,380\n996,844\n\n\nLaurentian-Acadian Floodplain Systems\n0\n435\n68\n14,217\n838,822\n\n\nEastern Boreal Floodplain\n0\n581\n312\n3,979\n807,668\n\n\nBoreal Jack Pine-Black Spruce Forest\n82\n0\n0\n9,370\n768,332\n\n\nNorth-Central Interior Maple-Basswood Forest\n1,027\n0\n857\n1,487\n694,418\n\n\nNorth-Central Interior Dry-Mesic Oak Forest and Woodland\n119\n88\n37\n47,745\n668,566\n\n\nBoreal Jack Pine-Black Spruce Forest-Pine Barrens\n34\n64\n7\n130,854\n654,270\n\n\nNorth-Central Interior Oak Savanna\n389\n171\n5\n67,749\n338,746\n\n\nCentral Interior and Appalachian Floodplain Systems\n0\n431\n67\n1,915\n111,050\n\n\nLaurentian-Acadian Northern Hardwoods Forest-Northern Sugar Maple-Basswood\n1,016\n0\n0\n100\n101,763\n\n\nNorth-Central Oak Barrens\n197\n194\n6\n20,277\n101,383\n\n\nNorth-Central Interior Beech-Maple Forest\n1,004\n0\n836\n151\n68,981\n\n\nCentral Interior and Appalachian Swamp Systems\n987\n0\n0\n67\n66,107\n\n\nBoreal Jack Pine-Black Spruce Forest-Spruce-Fir\n112\n0\n0\n546\n61,190\n\n\nGreat Lakes Wooded Dune and Swale\n3,715\n536\n0\n97\n45,213\n\n\nCentral Interior and Appalachian Shrub-Herbaceous Wetland Systems\n17\n0\n0\n2,031\n34,526\n\n\nNorth-Central Interior Sand and Gravel Tallgrass Prairie\n4\n0\n87\n10,441\n31,323\n\n\nEastern Great Plains Tallgrass Aspen Parkland\n16\n0\n8\n4,981\n29,887\n\n\nNorth-Central Interior Dry Oak Forest and Woodland\n120\n104\n15\n2,005\n22,565\n\n\nGreat Lakes Alvar\n439\n3,247\n0\n39\n14,939\n\n\nNorthern Tallgrass Prairie\n5\n0\n0\n3,061\n14,455\n\n\nCentral Tallgrass Prairie\n4\n0\n0\n2,464\n9,858\n\n\nPaleozoic Plateau Bluff and Talus\n15\n126\n102\n730\n8,763\n\n\nBoreal Aspen-Birch Forest\n82\n0\n0\n70\n5,704\n\n\nWestern Great Plains Depressional Wetland Systems\n20\n0\n0\n21\n422\n\n\nGreat Lakes Wet-Mesic Lakeplain Prairie\n24\n0\n0\n8\n193\n\n\nGreat Plains Prairie Pothole\n50\n0\n0\n2\n109\n\n\nLaurentian-Acadian Northern Hardwoods Forest\n2,109\n0\n0\n0\n29\n\n\nEastern Great Plains Floodplain Systems\n517\n77\n176\n0\n9"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Northwoods Fire Assessment",
     "section": "",
-    "text": "Wildfires, drought, ice- and windstorm events, and other natural disturbances are foundational processes that shape the condition of ecosystems, and the services they provide to people. Anthropogenic drivers like introduced pests and pathogens, groundwater depletion, and fire suppression can disrupt natural processes, and reduce the resilience of forest ecosystems to disturbances.\n\n\n\nNorthwods Fire Assessment Boundary. Compiled by Randy Swaty from Bailey’s Ecoregions (Bailey, 2016. https://doi.org/10.2737/RDS-2016-0003)\n\n\nFurther, we expect that climate change, especially temperature-related increases in evaporative demand (a key indicator of water loss rates from soils and vegetation), has the potential to rapidly amplify the effects of anthropogenic stressors, promoting drought stress in forest vegetation, and transformational increases in fire risk.\nWhile these risks to forests of the Northwoods Region are pervasive and associated with many uncertainties, understanding the spatial patterns of past disturbances, current vegetation conditions, management and water use history, and site conditions can help us compare relative risks for catastrophic fires."
+    "text": "INCOMPLETE DRAFT FOR INTERNAL CONSUMPTION ONLY\n\nWhy this why now: Evaluating the potential for transformational changes in ecosystem condition and wildfire risk for the Northwoods region\nWildfires, drought, ice and windstorm events, and other natural disturbances are foundational processes that shape the condition of ecosystems, and the services they provide to people. Anthropogenic drivers like introduced pests and pathogens, groundwater depletion, and fire suppression can disrupt natural processes, and reduce the resilience of forest ecosystems to disturbances.\n\n\n\nNorthwods Fire Assessment Boundary. Compiled by Randy Swaty from Bailey’s Ecoregions (Bailey, 2016. https://doi.org/10.2737/RDS-2016-0003)\n\n\nFurther, we expect that climate change, especially temperature-related increases in evaporative demand (a key indicator of water loss rates from soils and vegetation), has the potential to rapidly amplify the effects of anthropogenic stressors, promoting drought stress in forest vegetation, and transformational increases in fire risk.\nWhile these risks to forests of the Northwoods Region are pervasive and associated with many uncertainties, understanding the spatial patterns of past disturbances, current vegetation conditions, management and water use history, and site conditions can help us compare relative risks for catastrophic fires."
+  },
+  {
+    "objectID": "recent.html",
+    "href": "recent.html",
+    "title": "Recent fires",
+    "section": "",
+    "text": "INCOMPLETE DRAFT FOR INTERNAL CONSUMPTION ONLY"
+  },
+  {
+    "objectID": "recent.html#summary",
+    "href": "recent.html#summary",
+    "title": "Recent fires",
+    "section": "Summary",
+    "text": "Summary\nIn the period between 1992 and 2020 over 74,000 fires were recorded for the Northwoods region (data from Short 2022). While most of these were immediately suppressed, this number is substantial. Below we explore:\n\nfire count and size trends\nseasonality\nlocation"
+  },
+  {
+    "objectID": "recent.html#fire-count-and-monthly-trends",
+    "href": "recent.html#fire-count-and-monthly-trends",
+    "title": "Recent fires",
+    "section": "Fire Count and Monthly Trends",
+    "text": "Fire Count and Monthly Trends\nThe mean number of fires per year in the Northwoods is ~2550, with a range of 1,220 - 4,242 per year.\n\n\n\n\n\n\n\n\n\n\nThe mean number of fires over the 28 year time period ranged from 6 - 1,0222, with the highest number of fires occurring in April.\n\n\n\n\n\n\n\n\n\n\nPulling it altogether in the following ridgeline chart allows for exploration across months for the entire time period. The highest peaks represent 217 fires (which occurred July 14, 2005)"
+  },
+  {
+    "objectID": "recent.html#fire-size-distribution",
+    "href": "recent.html#fire-size-distribution",
+    "title": "Recent fires",
+    "section": "Fire size distribution",
+    "text": "Fire size distribution\nRoughly 70,000 of the reported fires were less than 10 acres, and ~600 fires were greater than 100 acres."
+  },
+  {
+    "objectID": "recent.html#spatial-distribution-of-fires",
+    "href": "recent.html#spatial-distribution-of-fires",
+    "title": "Recent fires",
+    "section": "Spatial Distribution of Fires",
+    "text": "Spatial Distribution of Fires\nFor the map below I clipped the Short (2022) fire occurrence data to the Northwoods perimeter with a buffer of 10km, as this data was coupled with perimeter data for exploration as some fires extended outside of the Northwoods area. The dataset has a cause attribute which was used to categorize ‘natural’ vs. ‘human’ causes.\n\n\n\nFire occurances within the Northwods fire assessment boundary (plus 10km buffer) for 1992 - 2020."
   }
 ]
