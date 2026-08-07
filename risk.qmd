@@ -214,6 +214,7 @@ The highlighted areas generally line up with known fire-prone vegetation types, 
 #| warning: false
 #| fig.width: 10
 #| fig_height: 7
+#| out-width: 100%
 
 
 
@@ -260,7 +261,11 @@ wfe_quantiles$quantiles <- factor(wfe_quantiles$quantiles, levels = (levels(wfe_
 wfe_quantiles_chart <-
   ggplot(wfe_quantiles, aes(x = quantiles, y = total_acres, fill = quantiles)) +
   geom_bar(stat = 'identity', color = '#3d3d3d') +
-  coord_flip() +
+  coord_flip(clip = "off") +
+  scale_y_continuous(
+    labels = comma,
+    expand = expansion(mult = c(0, 0.10))
+  ) +
   labs(
     x = "",
     y = "Total acres per category",
@@ -273,7 +278,6 @@ wfe_quantiles_chart <-
     "#A5C48C",
     "#5EA79F",
     "#1e344a")) +
-  scale_y_continuous(labels = comma) +
   geom_text(aes(label = paste0("  ", percentage, "%")),
             vjust = -0.5, 
             hjust = -0.10, 
